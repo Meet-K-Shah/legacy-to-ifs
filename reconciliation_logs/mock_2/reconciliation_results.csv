@@ -1,0 +1,99 @@
+check_id,check,domain,bu,description,expected,actual,variance,unit,status
+R001,COVERAGE,item,BU1,Source rows == ledger rows (each source row has one disposition),5000,5000,0,rows,PASS
+R002,COVERAGE,item,BU1,No source row has more than one disposition,5000,5000,0,rows,PASS
+R003,COVERAGE,item,BU2,Source rows == ledger rows (each source row has one disposition),5000,5000,0,rows,PASS
+R004,COVERAGE,item,BU2,No source row has more than one disposition,5000,5000,0,rows,PASS
+R005,COVERAGE,bom,BU1,Source rows == ledger rows (each source row has one disposition),1414,1414,0,rows,PASS
+R006,COVERAGE,bom,BU1,No source row has more than one disposition,1414,1414,0,rows,PASS
+R007,COVERAGE,bom,BU2,Source rows == ledger rows (each source row has one disposition),1438,1438,0,rows,PASS
+R008,COVERAGE,bom,BU2,No source row has more than one disposition,1438,1438,0,rows,PASS
+R009,COVERAGE,customer,BU1,Source rows == ledger rows (each source row has one disposition),1500,1500,0,rows,PASS
+R010,COVERAGE,customer,BU1,No source row has more than one disposition,1500,1500,0,rows,PASS
+R011,COVERAGE,customer,BU2,Source rows == ledger rows (each source row has one disposition),1500,1500,0,rows,PASS
+R012,COVERAGE,customer,BU2,No source row has more than one disposition,1500,1500,0,rows,PASS
+R013,COVERAGE,customer_shipto,BU1,Source rows == ledger rows (each source row has one disposition),1086,1086,0,rows,PASS
+R014,COVERAGE,customer_shipto,BU1,No source row has more than one disposition,1086,1086,0,rows,PASS
+R015,COVERAGE,customer_shipto,BU2,Source rows == ledger rows (each source row has one disposition),1110,1110,0,rows,PASS
+R016,COVERAGE,customer_shipto,BU2,No source row has more than one disposition,1110,1110,0,rows,PASS
+R017,COVERAGE,vendor,BU1,Source rows == ledger rows (each source row has one disposition),1500,1500,0,rows,PASS
+R018,COVERAGE,vendor,BU1,No source row has more than one disposition,1500,1500,0,rows,PASS
+R019,COVERAGE,vendor,BU2,Source rows == ledger rows (each source row has one disposition),1500,1500,0,rows,PASS
+R020,COVERAGE,vendor,BU2,No source row has more than one disposition,1500,1500,0,rows,PASS
+R021,COVERAGE,inventory,BU1,Source rows == ledger rows (each source row has one disposition),2006,2006,0,rows,PASS
+R022,COVERAGE,inventory,BU1,No source row has more than one disposition,2006,2006,0,rows,PASS
+R023,COVERAGE,inventory,BU2,Source rows == ledger rows (each source row has one disposition),2006,2006,0,rows,PASS
+R024,COVERAGE,inventory,BU2,No source row has more than one disposition,2006,2006,0,rows,PASS
+R025,COVERAGE,open_po,BU1,Source rows == ledger rows (each source row has one disposition),1000,1000,0,rows,PASS
+R026,COVERAGE,open_po,BU1,No source row has more than one disposition,1000,1000,0,rows,PASS
+R027,COVERAGE,open_po,BU2,Source rows == ledger rows (each source row has one disposition),1000,1000,0,rows,PASS
+R028,COVERAGE,open_po,BU2,No source row has more than one disposition,1000,1000,0,rows,PASS
+R029,COVERAGE,open_so,BU1,Source rows == ledger rows (each source row has one disposition),1000,1000,0,rows,PASS
+R030,COVERAGE,open_so,BU1,No source row has more than one disposition,1000,1000,0,rows,PASS
+R031,COVERAGE,open_so,BU2,Source rows == ledger rows (each source row has one disposition),1000,1000,0,rows,PASS
+R032,COVERAGE,open_so,BU2,No source row has more than one disposition,1000,1000,0,rows,PASS
+R033,COVERAGE,open_ar,BU1,Source rows == ledger rows (each source row has one disposition),600,600,0,rows,PASS
+R034,COVERAGE,open_ar,BU1,No source row has more than one disposition,600,600,0,rows,PASS
+R035,COVERAGE,open_ar,BU2,Source rows == ledger rows (each source row has one disposition),600,600,0,rows,PASS
+R036,COVERAGE,open_ar,BU2,No source row has more than one disposition,600,600,0,rows,PASS
+R037,COVERAGE,open_ap,BU1,Source rows == ledger rows (each source row has one disposition),600,600,0,rows,PASS
+R038,COVERAGE,open_ap,BU1,No source row has more than one disposition,600,600,0,rows,PASS
+R039,COVERAGE,open_ap,BU2,Source rows == ledger rows (each source row has one disposition),600,600,0,rows,PASS
+R040,COVERAGE,open_ap,BU2,No source row has more than one disposition,600,600,0,rows,PASS
+R041,COVERAGE,gl_balance,BU1,Source rows == ledger rows (each source row has one disposition),20,20,0,rows,PASS
+R042,COVERAGE,gl_balance,BU1,No source row has more than one disposition,20,20,0,rows,PASS
+R043,COVERAGE,gl_balance,BU2,Source rows == ledger rows (each source row has one disposition),20,20,0,rows,PASS
+R044,COVERAGE,gl_balance,BU2,No source row has more than one disposition,20,20,0,rows,PASS
+R045,COUNT,item,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,10000,10000,0,rows,PASS
+R046,COUNT,item,ALL,Ledger LOADED rows == rows in IFS load file,9031,9031,0,rows,PASS
+R047,COUNT,bom,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,2852,2852,0,rows,PASS
+R048,COUNT,bom,ALL,Ledger LOADED rows == rows in IFS load file,2683,2683,0,rows,PASS
+R049,COUNT,customer,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,3000,3000,0,rows,PASS
+R050,COUNT,customer,ALL,Ledger LOADED rows == rows in IFS load file,2610,2610,0,rows,PASS
+R051,COUNT,customer_shipto,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,2196,2196,0,rows,PASS
+R052,COUNT,customer_shipto,ALL,Ledger LOADED rows == rows in IFS load file,2184,2184,0,rows,PASS
+R053,COUNT,vendor,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,3000,3000,0,rows,PASS
+R054,COUNT,vendor,ALL,Ledger LOADED rows == rows in IFS load file,2608,2608,0,rows,PASS
+R055,COUNT,inventory,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,4012,4012,0,rows,PASS
+R056,COUNT,inventory,ALL,Ledger LOADED rows == rows in IFS load file,3901,3901,0,rows,PASS
+R057,COUNT,open_po,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,2000,2000,0,rows,PASS
+R058,COUNT,open_po,ALL,Ledger LOADED rows == rows in IFS load file,1931,1931,0,rows,PASS
+R059,COUNT,open_so,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,2000,2000,0,rows,PASS
+R060,COUNT,open_so,ALL,Ledger LOADED rows == rows in IFS load file,1949,1949,0,rows,PASS
+R061,COUNT,open_ar,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,1200,1200,0,rows,PASS
+R062,COUNT,open_ar,ALL,Ledger LOADED rows == rows in IFS load file,1190,1190,0,rows,PASS
+R063,COUNT,open_ap,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,1200,1200,0,rows,PASS
+R064,COUNT,open_ap,ALL,Ledger LOADED rows == rows in IFS load file,1190,1190,0,rows,PASS
+R065,COUNT,gl_balance,ALL,Source rows == IFS rows loaded + quarantined + consolidated duplicates + excluded,40,40,0,rows,PASS
+R066,COUNT,gl_balance,ALL,Ledger LOADED rows == rows in IFS load file,40,40,0,rows,PASS
+R067,DOLLAR,inventory,BU1,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),5908943940,5908943940,0,cents,PASS
+R068,DOLLAR,inventory,BU2,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),5799368625,5799368625,0,cents,PASS
+R069,DOLLAR,open_po,BU1,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),2944957994,2944957994,0,cents,PASS
+R070,DOLLAR,open_po,BU2,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),2978150270,2978150270,0,cents,PASS
+R071,DOLLAR,open_so,BU1,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),4198426995,4198426995,0,cents,PASS
+R072,DOLLAR,open_so,BU2,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),3956701231,3956701231,0,cents,PASS
+R073,DOLLAR,open_ar,BU1,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),4590533156,4590533156,0,cents,PASS
+R074,DOLLAR,open_ar,BU2,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),5055513990,5055513990,0,cents,PASS
+R075,DOLLAR,open_ap,BU1,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),5225573529,5225573529,0,cents,PASS
+R076,DOLLAR,open_ap,BU2,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),4743943051,4743943051,0,cents,PASS
+R077,DOLLAR,gl_balance,BU1,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),0,0,0,cents,PASS
+R078,DOLLAR,gl_balance,BU2,Adjusted source $ == loaded $ + quarantined $ + excluded $ (variance must be $0.00),0,0,0,cents,PASS
+R079,GL_TB,gl_balance,BU1,Loaded trial balance (opening + approved adjustments) sums to $0.00,0,0,0,cents,PASS
+R080,GL_TB,gl_balance,BU2,Loaded trial balance (opening + approved adjustments) sums to $0.00,0,0,0,cents,PASS
+R081,GL_TIEOUT,gl_balance,BU1,AR control account ties to sub-ledger after approved adjusting journals,0,0,0,cents,PASS
+R082,GL_TIEOUT,gl_balance,BU1,AP control account ties to sub-ledger after approved adjusting journals,0,0,0,cents,PASS
+R083,GL_TIEOUT,gl_balance,BU1,INV control account ties to sub-ledger after approved adjusting journals,0,0,0,cents,PASS
+R084,GL_TIEOUT,gl_balance,BU2,AR control account ties to sub-ledger after approved adjusting journals,0,0,0,cents,PASS
+R085,GL_TIEOUT,gl_balance,BU2,AP control account ties to sub-ledger after approved adjusting journals,0,128455,128455,cents,FAIL
+R086,GL_TIEOUT,gl_balance,BU2,INV control account ties to sub-ledger after approved adjusting journals,0,0,0,cents,PASS
+R087,XREF,item,ALL,Every loaded/consolidated legacy record carries an enterprise ID,0,0,0,rows,PASS
+R088,XREF,item,ALL,Every XREF enterprise ID exists as a golden record,0,0,0,rows,PASS
+R089,XREF,item,ALL,Golden IDs are unique,0,0,0,rows,PASS
+R090,XREF,item,ALL,Each legacy code maps to exactly one enterprise ID,0,0,0,rows,PASS
+R091,XREF,customer,ALL,Every loaded/consolidated legacy record carries an enterprise ID,0,0,0,rows,PASS
+R092,XREF,customer,ALL,Every XREF enterprise ID exists as a golden record,0,0,0,rows,PASS
+R093,XREF,customer,ALL,Golden IDs are unique,0,0,0,rows,PASS
+R094,XREF,customer,ALL,Each legacy code maps to exactly one enterprise ID,0,0,0,rows,PASS
+R095,XREF,vendor,ALL,Every loaded/consolidated legacy record carries an enterprise ID,0,0,0,rows,PASS
+R096,XREF,vendor,ALL,Every XREF enterprise ID exists as a golden record,0,0,0,rows,PASS
+R097,XREF,vendor,ALL,Golden IDs are unique,0,0,0,rows,PASS
+R098,XREF,vendor,ALL,Each legacy code maps to exactly one enterprise ID,0,0,0,rows,PASS
