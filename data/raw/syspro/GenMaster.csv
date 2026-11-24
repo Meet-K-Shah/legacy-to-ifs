@@ -1,0 +1,21 @@
+GlCode,Description,AccountType,Balance
+1000-00,Cash and Equivalents,A,3964001.39
+1100-00,Accounts Receivable - Trade,A,45905331.56
+1300-00,Inventory - Raw Materials & WIP,A,57512443.40
+1400-00,Prepaid Expenses,A,3738796.77
+1500-00,"Property, Plant & Equipment",A,2218486.91
+1590-00,Accumulated Depreciation,A,-2303035.23
+2000-00,Accounts Payable - Trade,L,-52255735.29
+2100-00,Accrued Liabilities,L,-1282056.72
+2200-00,Customer Deposits,L,-1815228.55
+2500-00,Long-Term Debt,L,-855962.36
+3000-00,Common Stock,E,-2966292.98
+3900-00,Retained Earnings,E,-61053312.76
+4000-00,Revenue - Fabrication,R,-1568775.15
+4100-00,Revenue - Field Services,R,-1937101.84
+5000-00,Cost of Goods Sold,X,2734915.88
+5100-00,Direct Labor,X,773316.55
+5200-00,Manufacturing Overhead,X,2933970.90
+6000-00,Salaries & Wages,X,1392927.89
+6100-00,Rent & Utilities,X,3896030.07
+6900-00,AP Adjustments / Suspense,X,967279.56

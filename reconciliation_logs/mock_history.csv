@@ -1,0 +1,4 @@
+mock,run_at,recon_status,open_issues,critical,high,medium,low,quarantined_rows,review_pairs,readiness,golden_items
+1,2026-11-23T03:32:13Z,FAIL,1042,1,561,452,28,1000,41,NOT READY,8957
+2,2026-11-23T03:32:21Z,FAIL,516,1,271,231,13,496,19,NOT READY,9031
+3,2026-11-23T03:32:23Z,PASS,164,0,92,67,5,164,0,READY,9083

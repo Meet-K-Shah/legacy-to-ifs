@@ -1,0 +1,9614 @@
+{
+ "mock": 3,
+ "cell_fixes": [
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 555,
+   "ticket": "DQ-0001",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3931,
+   "ticket": "DQ-0002",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "FT"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 636,
+   "ticket": "DQ-0007",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 29,
+   "ticket": "DQ-0008",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3298,
+   "ticket": "DQ-0012",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 724,
+   "ticket": "DQ-0016",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "SKID ASSY DWG#573685 REV.A"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 795,
+   "ticket": "DQ-0019",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "ProductClass",
+   "new_value": "FAB"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3353,
+   "ticket": "DQ-0023",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "FLANGE SO 0.75\" CLASS 600 ASTM A105"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 4618,
+   "ticket": "DQ-0024",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 956,
+   "ticket": "DQ-0028",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3380,
+   "ticket": "DQ-0030",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 107,
+   "ticket": "DQ-0031",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "STUD 1.25IN 3.5 IN LG A320 GR.L7"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 1000,
+   "ticket": "DQ-0032",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 4053,
+   "ticket": "DQ-0034",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "FT"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3430,
+   "ticket": "DQ-0036",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 2763,
+   "ticket": "DQ-0037",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "45 ELBOW 3-INCH SCHEDULE STD ASTM A403-WP316L"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3471,
+   "ticket": "DQ-0043",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "ProductClass",
+   "new_value": "FLG"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 1256,
+   "ticket": "DQ-0044",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "NOZZLE ASSEMBLY DWG-901351 REV.A"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 1293,
+   "ticket": "DQ-0045",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 4723,
+   "ticket": "DQ-0047",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 4146,
+   "ticket": "DQ-0048",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "PIPE SEAMLESS 20-INCH SCHEDULE 80 40FT SA-106 GR B"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3523,
+   "ticket": "DQ-0050",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 257,
+   "ticket": "DQ-0052",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "HEX BOLT 1.125 IN 5.5 IN LG SA-193 GR B7"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 1575,
+   "ticket": "DQ-0053",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "ProductClass",
+   "new_value": "FAB"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 4203,
+   "ticket": "DQ-0054",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "FT"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 1711,
+   "ticket": "DQ-0056",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "TUBE BUNDLE DWG-106907 REV.D"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3624,
+   "ticket": "DQ-0059",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "ProductClass",
+   "new_value": "FLG"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 1847,
+   "ticket": "DQ-0061",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "MANWAY ASSY DWG#387198 REV.A"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3023,
+   "ticket": "DQ-0063",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 2165,
+   "ticket": "DQ-0071",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "ProductClass",
+   "new_value": "FAB"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3111,
+   "ticket": "DQ-0072",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 2180,
+   "ticket": "DQ-0073",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "Description",
+   "new_value": "SPOOL DWG#563031 REV A"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3133,
+   "ticket": "DQ-0074",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 112,
+   "ticket": "DQ-0098",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "FT"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 3344,
+   "ticket": "DQ-0106",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 534,
+   "ticket": "DQ-0108",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 3448,
+   "ticket": "DQ-0110",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "description",
+   "new_value": "Head Assembly, Dwg-753506, Rev B"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 622,
+   "ticket": "DQ-0111",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "description",
+   "new_value": "VALVE, GLOBE, 1.5 in, CL900, SA351-CF8M"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 3457,
+   "ticket": "DQ-0112",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 3585,
+   "ticket": "DQ-0115",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "family_code",
+   "new_value": "FABASSY"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 942,
+   "ticket": "DQ-0119",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "FT"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 1242,
+   "ticket": "DQ-0122",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 1446,
+   "ticket": "DQ-0126",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 1490,
+   "ticket": "DQ-0129",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "description",
+   "new_value": "PLATE, 2.5 in, 48 X 96, ASTM A240-316L"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 1564,
+   "ticket": "DQ-0131",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 1595,
+   "ticket": "DQ-0133",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "FT"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 4165,
+   "ticket": "DQ-0136",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2008,
+   "ticket": "DQ-0141",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "family_code",
+   "new_value": "FASTENER"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2039,
+   "ticket": "DQ-0143",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 4405,
+   "ticket": "DQ-0144",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2144,
+   "ticket": "DQ-0146",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "family_code",
+   "new_value": "FASTENER"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 4488,
+   "ticket": "DQ-0147",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2331,
+   "ticket": "DQ-0150",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2527,
+   "ticket": "DQ-0156",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2565,
+   "ticket": "DQ-0157",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_UNKNOWN_CATEGORY",
+   "field": "family_code",
+   "new_value": "FLANGE"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 4776,
+   "ticket": "DQ-0159",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2657,
+   "ticket": "DQ-0162",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "description",
+   "new_value": "HEAVY HEX NUT, 0.875 in, 5LG, SA320-L7"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 4835,
+   "ticket": "DQ-0163",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 4866,
+   "ticket": "DQ-0164",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NO_DESC",
+   "field": "description",
+   "new_value": "Shell Assembly, Dwg-933729, Rev C"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2934,
+   "ticket": "DQ-0168",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2951,
+   "ticket": "DQ-0169",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU1",
+   "row_num": 1076,
+   "ticket": "DQ-0191",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "Customer",
+   "new_value": "C00054"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU1",
+   "row_num": 1079,
+   "ticket": "DQ-0194",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "Customer",
+   "new_value": "C00862"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU1",
+   "row_num": 1082,
+   "ticket": "DQ-0196",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "Customer",
+   "new_value": "C02783"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU1",
+   "row_num": 1083,
+   "ticket": "DQ-0197",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "Customer",
+   "new_value": "C03091"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU1",
+   "row_num": 1084,
+   "ticket": "DQ-0198",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "Customer",
+   "new_value": "C04266"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU2",
+   "row_num": 2601,
+   "ticket": "DQ-0208",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   1183"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU2",
+   "row_num": 2602,
+   "ticket": "DQ-0209",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   1471"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU2",
+   "row_num": 2603,
+   "ticket": "DQ-0210",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   1551"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU2",
+   "row_num": 2604,
+   "ticket": "DQ-0211",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   2219"
+  },
+  {
+   "domain": "customer_shipto",
+   "bu": "BU2",
+   "row_num": 2610,
+   "ticket": "DQ-0216",
+   "owner": "Sales Ops / AR",
+   "defect_code": "SHIP_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   4057"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 93,
+   "ticket": "DQ-0229",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "FLG-00331"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 651,
+   "ticket": "DQ-0231",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "QtyPer",
+   "new_value": "20"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 1001,
+   "ticket": "DQ-0232",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "QtyPer",
+   "new_value": "6"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 341,
+   "ticket": "DQ-0233",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "BLT-00340"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 720,
+   "ticket": "DQ-0235",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "FLG-01029"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 1009,
+   "ticket": "DQ-0241",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "BLT-01047"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 36,
+   "ticket": "DQ-0244",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "PIP-00474"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 856,
+   "ticket": "DQ-0247",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "FAB-00842"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 1164,
+   "ticket": "DQ-0251",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "QtyPer",
+   "new_value": "22"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 248,
+   "ticket": "DQ-0252",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "QtyPer",
+   "new_value": "22"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 808,
+   "ticket": "DQ-0253",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "FLG-00130"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 2,
+   "ticket": "DQ-0257",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "VLV-00725"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 470,
+   "ticket": "DQ-0259",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "QtyPer",
+   "new_value": "10"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 748,
+   "ticket": "DQ-0260",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "BLT-00825"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 753,
+   "ticket": "DQ-0261",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "FAB-00706"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 411,
+   "ticket": "DQ-0262",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "VLV-00308"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 269,
+   "ticket": "DQ-0266",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "QtyPer",
+   "new_value": "18"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 1413,
+   "ticket": "DQ-0268",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_PARENT",
+   "field": "ParentPart",
+   "new_value": "FAB-03896"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 159,
+   "ticket": "DQ-0269",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "QtyPer",
+   "new_value": "14"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 1414,
+   "ticket": "DQ-0270",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_PARENT",
+   "field": "ParentPart",
+   "new_value": "FAB-01409"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 1086,
+   "ticket": "DQ-0272",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "Component",
+   "new_value": "FAB-03069"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 474,
+   "ticket": "DQ-0303",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "qty_per",
+   "new_value": "13.000"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 685,
+   "ticket": "DQ-0305",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "qty_per",
+   "new_value": "15.000"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 901,
+   "ticket": "DQ-0307",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0006304"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 139,
+   "ticket": "DQ-0311",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0008792"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 765,
+   "ticket": "DQ-0313",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0006312"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1369,
+   "ticket": "DQ-0315",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0003180"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 695,
+   "ticket": "DQ-0317",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0008297"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 737,
+   "ticket": "DQ-0319",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "qty_per",
+   "new_value": "50.800"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 335,
+   "ticket": "DQ-0321",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0007864"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 6,
+   "ticket": "DQ-0322",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_PARENT",
+   "field": "parent_item",
+   "new_value": "F0004545"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 7,
+   "ticket": "DQ-0324",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_PARENT",
+   "field": "parent_item",
+   "new_value": "F0005675"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1342,
+   "ticket": "DQ-0326",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0012152"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 581,
+   "ticket": "DQ-0327",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0013875"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 165,
+   "ticket": "DQ-0329",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0013888"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 887,
+   "ticket": "DQ-0334",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0013466"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1010,
+   "ticket": "DQ-0337",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "qty_per",
+   "new_value": "9.000"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 448,
+   "ticket": "DQ-0338",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "F0009364"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 859,
+   "ticket": "DQ-0340",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "qty_per",
+   "new_value": "8.000"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 931,
+   "ticket": "DQ-0342",
+   "owner": "Engineering",
+   "defect_code": "BOM_INVALID_QTY",
+   "field": "qty_per",
+   "new_value": "19.000"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 699,
+   "ticket": "DQ-0345",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "F0009103"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 4,
+   "ticket": "DQ-0346",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_PARENT",
+   "field": "parent_item",
+   "new_value": "F0011534"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1062,
+   "ticket": "DQ-0349",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0010342"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1063,
+   "ticket": "DQ-0350",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "F0007016"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 5,
+   "ticket": "DQ-0351",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_PARENT",
+   "field": "parent_item",
+   "new_value": "F0009629"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 702,
+   "ticket": "DQ-0353",
+   "owner": "Engineering",
+   "defect_code": "BOM_ORPHAN_COMPONENT",
+   "field": "comp_item",
+   "new_value": "0003541"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1726,
+   "ticket": "DQ-0379",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "UnitCost",
+   "new_value": "39.2073"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 722,
+   "ticket": "DQ-0380",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1100,
+   "ticket": "DQ-0390",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 887,
+   "ticket": "DQ-0394",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "QtyOnHand",
+   "new_value": "2"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1941,
+   "ticket": "DQ-0395",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "QtyOnHand",
+   "new_value": "19"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 431,
+   "ticket": "DQ-0396",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "UnitCost",
+   "new_value": "21933.2094"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 533,
+   "ticket": "DQ-0397",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 587,
+   "ticket": "DQ-0400",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1999,
+   "ticket": "DQ-0401",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FLG-00486"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 2003,
+   "ticket": "DQ-0408",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FLG-00543"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1336,
+   "ticket": "DQ-0410",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 375,
+   "ticket": "DQ-0414",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "UnitCost",
+   "new_value": "30244.7830"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1438,
+   "ticket": "DQ-0415",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "QtyOnHand",
+   "new_value": "167"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 501,
+   "ticket": "DQ-0416",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "QtyOnHand",
+   "new_value": "1"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1994,
+   "ticket": "DQ-0419",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "VLV-00070"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1675,
+   "ticket": "DQ-0422",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "UnitCost",
+   "new_value": "26.4771"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1673,
+   "ticket": "DQ-0423",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "FT"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1584,
+   "ticket": "DQ-0427",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "FT"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1141,
+   "ticket": "DQ-0428",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "StockUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1961,
+   "ticket": "DQ-0429",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "UnitCost",
+   "new_value": "655.7741"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 2006,
+   "ticket": "DQ-0432",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FAB-02857"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1989,
+   "ticket": "DQ-0434",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FAB-00611"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1995,
+   "ticket": "DQ-0438",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FAB-03399"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1811,
+   "ticket": "DQ-0439",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "UnitCost",
+   "new_value": "181.4091"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 250,
+   "ticket": "DQ-0450",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 400,
+   "ticket": "DQ-0452",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "unit_cost",
+   "new_value": "19.6772"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 788,
+   "ticket": "DQ-0458",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "FT"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1391,
+   "ticket": "DQ-0462",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "unit_cost",
+   "new_value": "1156.6650"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1801,
+   "ticket": "DQ-0463",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 724,
+   "ticket": "DQ-0465",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1222,
+   "ticket": "DQ-0466",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0013669"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1518,
+   "ticket": "DQ-0468",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "qty_on_hand",
+   "new_value": "3.000"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1216,
+   "ticket": "DQ-0470",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0012424"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 542,
+   "ticket": "DQ-0475",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "qty_on_hand",
+   "new_value": "5.000"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 99,
+   "ticket": "DQ-0476",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "qty_on_hand",
+   "new_value": "24.000"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1219,
+   "ticket": "DQ-0480",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0004194"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1740,
+   "ticket": "DQ-0483",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "qty_on_hand",
+   "new_value": "1.000"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1061,
+   "ticket": "DQ-0484",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1230,
+   "ticket": "DQ-0488",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0011272"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 98,
+   "ticket": "DQ-0489",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "unit_cost",
+   "new_value": "469.0094"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 861,
+   "ticket": "DQ-0491",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_NEGATIVE_QTY",
+   "field": "qty_on_hand",
+   "new_value": "243.000"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 1577,
+   "ticket": "DQ-0494",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_MISSING_COST",
+   "field": "unit_cost",
+   "new_value": "47089.7759"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 40,
+   "ticket": "DQ-0504",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_VENDOR",
+   "field": "Supplier",
+   "new_value": "V03834"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 90,
+   "ticket": "DQ-0505",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_VENDOR",
+   "field": "Supplier",
+   "new_value": "V00715"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 95,
+   "ticket": "DQ-0506",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FLG-00193"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 98,
+   "ticket": "DQ-0507",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_DATE",
+   "field": "DueDate",
+   "new_value": "2027-01-06"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 118,
+   "ticket": "DQ-0508",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_UOM",
+   "field": "OrderUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 169,
+   "ticket": "DQ-0509",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_QTY",
+   "field": "QtyOutstanding",
+   "new_value": "2"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 289,
+   "ticket": "DQ-0513",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_QTY",
+   "field": "QtyOutstanding",
+   "new_value": "3"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 317,
+   "ticket": "DQ-0514",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_VENDOR",
+   "field": "Supplier",
+   "new_value": "V00855"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 343,
+   "ticket": "DQ-0515",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FLG-00396"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 472,
+   "ticket": "DQ-0518",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_QTY",
+   "field": "QtyOutstanding",
+   "new_value": "88"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 679,
+   "ticket": "DQ-0521",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_DATE",
+   "field": "DueDate",
+   "new_value": "2027-04-26"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 763,
+   "ticket": "DQ-0522",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_VENDOR",
+   "field": "Supplier",
+   "new_value": "V00798"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 885,
+   "ticket": "DQ-0528",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_QTY",
+   "field": "QtyOutstanding",
+   "new_value": "13"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 915,
+   "ticket": "DQ-0530",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FAB-03140"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU1",
+   "row_num": 980,
+   "ticket": "DQ-0531",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_UOM",
+   "field": "OrderUom",
+   "new_value": "FT"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 37,
+   "ticket": "DQ-0534",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_VENDOR",
+   "field": "vend_num",
+   "new_value": "   2857"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 97,
+   "ticket": "DQ-0535",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0013416"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 184,
+   "ticket": "DQ-0537",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 216,
+   "ticket": "DQ-0538",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0013179"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 244,
+   "ticket": "DQ-0540",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_VENDOR",
+   "field": "vend_num",
+   "new_value": "   1505"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 262,
+   "ticket": "DQ-0541",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 335,
+   "ticket": "DQ-0544",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "F0005802"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 396,
+   "ticket": "DQ-0547",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 456,
+   "ticket": "DQ-0550",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "F0003942"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 766,
+   "ticket": "DQ-0556",
+   "owner": "Procurement",
+   "defect_code": "PO_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0011889"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 815,
+   "ticket": "DQ-0559",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_QTY",
+   "field": "qty_open",
+   "new_value": "548.700"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 824,
+   "ticket": "DQ-0562",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 880,
+   "ticket": "DQ-0563",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_QTY",
+   "field": "qty_open",
+   "new_value": "760.000"
+  },
+  {
+   "domain": "open_po",
+   "bu": "BU2",
+   "row_num": 909,
+   "ticket": "DQ-0564",
+   "owner": "Procurement",
+   "defect_code": "PO_INVALID_DATE",
+   "field": "due_date",
+   "new_value": "08/25/2027"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 163,
+   "ticket": "DQ-0572",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "Customer",
+   "new_value": "C00101"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 321,
+   "ticket": "DQ-0576",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FAB-01610"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 360,
+   "ticket": "DQ-0578",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "PIP-00054"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 394,
+   "ticket": "DQ-0580",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_DATE",
+   "field": "ShipDate",
+   "new_value": "2027-08-17"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 468,
+   "ticket": "DQ-0581",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "Customer",
+   "new_value": "C01175"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 743,
+   "ticket": "DQ-0589",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "OrderUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 749,
+   "ticket": "DQ-0590",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "OrderUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 825,
+   "ticket": "DQ-0592",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_QTY",
+   "field": "QtyOutstanding",
+   "new_value": "179"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 878,
+   "ticket": "DQ-0594",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FAB-02346"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 912,
+   "ticket": "DQ-0597",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_ITEM",
+   "field": "StockCode",
+   "new_value": "FAB-00423"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 961,
+   "ticket": "DQ-0598",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "OrderUom",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU1",
+   "row_num": 996,
+   "ticket": "DQ-0600",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "OrderUom",
+   "new_value": "FT"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 45,
+   "ticket": "DQ-0601",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   2797"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 55,
+   "ticket": "DQ-0602",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "FT"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 79,
+   "ticket": "DQ-0604",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   3996"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 119,
+   "ticket": "DQ-0607",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 162,
+   "ticket": "DQ-0609",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0007104"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 173,
+   "ticket": "DQ-0610",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   2361"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 234,
+   "ticket": "DQ-0612",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   2136"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 288,
+   "ticket": "DQ-0614",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_QTY",
+   "field": "qty_open",
+   "new_value": "12.000"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 294,
+   "ticket": "DQ-0615",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "    394"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 316,
+   "ticket": "DQ-0617",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "FT"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 337,
+   "ticket": "DQ-0618",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 676,
+   "ticket": "DQ-0622",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   3076"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 680,
+   "ticket": "DQ-0623",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "    205"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 805,
+   "ticket": "DQ-0624",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 821,
+   "ticket": "DQ-0625",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_QTY",
+   "field": "qty_open",
+   "new_value": "1.000"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 849,
+   "ticket": "DQ-0626",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "0014276"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 922,
+   "ticket": "DQ-0632",
+   "owner": "Sales Operations",
+   "defect_code": "SO_INVALID_UOM",
+   "field": "u_m",
+   "new_value": "EA"
+  },
+  {
+   "domain": "open_so",
+   "bu": "BU2",
+   "row_num": 953,
+   "ticket": "DQ-0633",
+   "owner": "Sales Operations",
+   "defect_code": "SO_ORPHAN_ITEM",
+   "field": "item",
+   "new_value": "F0008644"
+  },
+  {
+   "domain": "open_ar",
+   "bu": "BU1",
+   "row_num": 467,
+   "ticket": "DQ-0640",
+   "owner": "Finance (AR)",
+   "defect_code": "AR_INVALID_DATE",
+   "field": "DueDate",
+   "new_value": "2026-11-09"
+  },
+  {
+   "domain": "open_ar",
+   "bu": "BU2",
+   "row_num": 112,
+   "ticket": "DQ-0643",
+   "owner": "Finance (AR)",
+   "defect_code": "AR_INVALID_DATE",
+   "field": "due_date",
+   "new_value": "09/10/2026"
+  },
+  {
+   "domain": "open_ar",
+   "bu": "BU2",
+   "row_num": 304,
+   "ticket": "DQ-0646",
+   "owner": "Finance (AR)",
+   "defect_code": "AR_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "    306"
+  },
+  {
+   "domain": "open_ar",
+   "bu": "BU2",
+   "row_num": 330,
+   "ticket": "DQ-0647",
+   "owner": "Finance (AR)",
+   "defect_code": "AR_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   1837"
+  },
+  {
+   "domain": "open_ar",
+   "bu": "BU2",
+   "row_num": 415,
+   "ticket": "DQ-0648",
+   "owner": "Finance (AR)",
+   "defect_code": "AR_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "    931"
+  },
+  {
+   "domain": "open_ar",
+   "bu": "BU2",
+   "row_num": 465,
+   "ticket": "DQ-0649",
+   "owner": "Finance (AR)",
+   "defect_code": "AR_ORPHAN_CUSTOMER",
+   "field": "cust_num",
+   "new_value": "   2029"
+  },
+  {
+   "domain": "open_ap",
+   "bu": "BU1",
+   "row_num": 41,
+   "ticket": "DQ-0652",
+   "owner": "Finance (AP)",
+   "defect_code": "AP_INVALID_DATE",
+   "field": "DueDate",
+   "new_value": "2026-09-15"
+  },
+  {
+   "domain": "open_ap",
+   "bu": "BU1",
+   "row_num": 82,
+   "ticket": "DQ-0653",
+   "owner": "Finance (AP)",
+   "defect_code": "AP_ORPHAN_VENDOR",
+   "field": "Supplier",
+   "new_value": "V00235"
+  },
+  {
+   "domain": "open_ap",
+   "bu": "BU1",
+   "row_num": 220,
+   "ticket": "DQ-0654",
+   "owner": "Finance (AP)",
+   "defect_code": "AP_ORPHAN_VENDOR",
+   "field": "Supplier",
+   "new_value": "V01582"
+  },
+  {
+   "domain": "open_ap",
+   "bu": "BU1",
+   "row_num": 520,
+   "ticket": "DQ-0655",
+   "owner": "Finance (AP)",
+   "defect_code": "AP_INVALID_DATE",
+   "field": "DueDate",
+   "new_value": "2026-07-24"
+  },
+  {
+   "domain": "open_ap",
+   "bu": "BU2",
+   "row_num": 113,
+   "ticket": "DQ-0659",
+   "owner": "Finance (AP)",
+   "defect_code": "AP_INVALID_DATE",
+   "field": "due_date",
+   "new_value": "12/25/2026"
+  },
+  {
+   "domain": "open_ap",
+   "bu": "BU2",
+   "row_num": 336,
+   "ticket": "DQ-0662",
+   "owner": "Finance (AP)",
+   "defect_code": "AP_ORPHAN_VENDOR",
+   "field": "vend_num",
+   "new_value": "   3817"
+  }
+ ],
+ "row_exclusions": [
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 3855,
+   "ticket": "DQ-0084",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 1918,
+   "ticket": "DQ-0086",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 884,
+   "ticket": "DQ-0087",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 1964,
+   "ticket": "DQ-0088",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 2694,
+   "ticket": "DQ-0089",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 2443,
+   "ticket": "DQ-0093",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 4342,
+   "ticket": "DQ-0094",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU1",
+   "row_num": 2,
+   "ticket": "DQ-0096",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NULL_KEY",
+   "reason": "Placeholder row approved for deletion by data owner"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 1751,
+   "ticket": "DQ-0170",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 3959,
+   "ticket": "DQ-0172",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 1734,
+   "ticket": "DQ-0177",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 3724,
+   "ticket": "DQ-0181",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_DUP_CODE",
+   "reason": "Duplicate code row approved for deletion; surviving row is the original"
+  },
+  {
+   "domain": "item",
+   "bu": "BU2",
+   "row_num": 2,
+   "ticket": "DQ-0184",
+   "owner": "Supply Chain / Item Data Steward",
+   "defect_code": "ITEM_NULL_KEY",
+   "reason": "Placeholder row approved for deletion by data owner"
+  },
+  {
+   "domain": "customer",
+   "bu": "BU1",
+   "row_num": 1497,
+   "ticket": "DQ-0187",
+   "owner": "Sales Ops / AR",
+   "defect_code": "CUST_NO_NAME",
+   "reason": "Inactive/test record approved for deletion by data owner"
+  },
+  {
+   "domain": "customer",
+   "bu": "BU1",
+   "row_num": 1498,
+   "ticket": "DQ-0188",
+   "owner": "Sales Ops / AR",
+   "defect_code": "CUST_NO_NAME",
+   "reason": "Inactive/test record approved for deletion by data owner"
+  },
+  {
+   "domain": "customer",
+   "bu": "BU1",
+   "row_num": 1499,
+   "ticket": "DQ-0189",
+   "owner": "Sales Ops / AR",
+   "defect_code": "CUST_NO_NAME",
+   "reason": "Inactive/test record approved for deletion by data owner"
+  },
+  {
+   "domain": "customer",
+   "bu": "BU2",
+   "row_num": 2594,
+   "ticket": "DQ-0201",
+   "owner": "Sales Ops / AR",
+   "defect_code": "CUST_NO_NAME",
+   "reason": "Inactive/test record approved for deletion by data owner"
+  },
+  {
+   "domain": "vendor",
+   "bu": "BU1",
+   "row_num": 1495,
+   "ticket": "DQ-0217",
+   "owner": "Procurement / AP",
+   "defect_code": "VEND_NO_NAME",
+   "reason": "Inactive/test record approved for deletion by data owner"
+  },
+  {
+   "domain": "vendor",
+   "bu": "BU2",
+   "row_num": 1495,
+   "ticket": "DQ-0222",
+   "owner": "Procurement / AP",
+   "defect_code": "VEND_NO_NAME",
+   "reason": "Inactive/test record approved for deletion by data owner"
+  },
+  {
+   "domain": "vendor",
+   "bu": "BU2",
+   "row_num": 1497,
+   "ticket": "DQ-0224",
+   "owner": "Procurement / AP",
+   "defect_code": "VEND_NO_NAME",
+   "reason": "Inactive/test record approved for deletion by data owner"
+  },
+  {
+   "domain": "vendor",
+   "bu": "BU2",
+   "row_num": 1500,
+   "ticket": "DQ-0226",
+   "owner": "Procurement / AP",
+   "defect_code": "VEND_NO_NAME",
+   "reason": "Inactive/test record approved for deletion by data owner"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 139,
+   "ticket": "DQ-0276",
+   "owner": "Engineering",
+   "defect_code": "BOM_DUPLICATE_LINE",
+   "reason": "Duplicate BOM line approved for deletion"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 193,
+   "ticket": "DQ-0277",
+   "owner": "Engineering",
+   "defect_code": "BOM_DUPLICATE_LINE",
+   "reason": "Duplicate BOM line approved for deletion"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 124,
+   "ticket": "DQ-0280",
+   "owner": "Engineering",
+   "defect_code": "BOM_DUPLICATE_LINE",
+   "reason": "Duplicate BOM line approved for deletion"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 63,
+   "ticket": "DQ-0283",
+   "owner": "Engineering",
+   "defect_code": "BOM_DUPLICATE_LINE",
+   "reason": "Duplicate BOM line approved for deletion"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 71,
+   "ticket": "DQ-0287",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 1008,
+   "ticket": "DQ-0290",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 1367,
+   "ticket": "DQ-0292",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 908,
+   "ticket": "DQ-0295",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU1",
+   "row_num": 995,
+   "ticket": "DQ-0299",
+   "owner": "Engineering",
+   "defect_code": "BOM_SELF_REFERENCE",
+   "reason": "Self-reference removed; Engineering confirmed it is an error"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1412,
+   "ticket": "DQ-0360",
+   "owner": "Engineering",
+   "defect_code": "BOM_DUPLICATE_LINE",
+   "reason": "Duplicate BOM line approved for deletion"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 785,
+   "ticket": "DQ-0361",
+   "owner": "Engineering",
+   "defect_code": "BOM_DUPLICATE_LINE",
+   "reason": "Duplicate BOM line approved for deletion"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1067,
+   "ticket": "DQ-0363",
+   "owner": "Engineering",
+   "defect_code": "BOM_DUPLICATE_LINE",
+   "reason": "Duplicate BOM line approved for deletion"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 433,
+   "ticket": "DQ-0364",
+   "owner": "Engineering",
+   "defect_code": "BOM_DUPLICATE_LINE",
+   "reason": "Duplicate BOM line approved for deletion"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 358,
+   "ticket": "DQ-0366",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1081,
+   "ticket": "DQ-0369",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 778,
+   "ticket": "DQ-0372",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 540,
+   "ticket": "DQ-0375",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "bom",
+   "bu": "BU2",
+   "row_num": 1309,
+   "ticket": "DQ-0376",
+   "owner": "Engineering",
+   "defect_code": "BOM_CIRCULAR",
+   "reason": "Loop broken: link is obsolete per Engineering"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 990,
+   "ticket": "DQ-0441",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_DUPLICATE_KEY",
+   "reason": "Duplicate stock record approved for deletion after cycle count"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU1",
+   "row_num": 1273,
+   "ticket": "DQ-0444",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_DUPLICATE_KEY",
+   "reason": "Duplicate stock record approved for deletion after cycle count"
+  },
+  {
+   "domain": "inventory",
+   "bu": "BU2",
+   "row_num": 19,
+   "ticket": "DQ-0502",
+   "owner": "Warehouse / Inventory Control",
+   "defect_code": "INV_DUPLICATE_KEY",
+   "reason": "Duplicate stock record approved for deletion after cycle count"
+  }
+ ],
+ "party_decisions": [
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00912"
+   ],
+   "b": [
+    "BU2",
+    "97"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0665",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01103"
+   ],
+   "b": [
+    "BU2",
+    "207"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0667",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03418"
+   ],
+   "b": [
+    "BU2",
+    "1576"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0670",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03199"
+   ],
+   "b": [
+    "BU2",
+    "2572"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0671",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00200"
+   ],
+   "b": [
+    "BU2",
+    "627"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0672",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00585"
+   ],
+   "b": [
+    "BU2",
+    "1709"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0675",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01565"
+   ],
+   "b": [
+    "BU2",
+    "2471"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0678",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02342"
+   ],
+   "b": [
+    "BU2",
+    "4431"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0680",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "941"
+   ],
+   "b": [
+    "BU2",
+    "4431"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0681",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04044"
+   ],
+   "b": [
+    "BU2",
+    "2062"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0682",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01815"
+   ],
+   "b": [
+    "BU2",
+    "2794"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0686",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03536"
+   ],
+   "b": [
+    "BU2",
+    "1153"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0688",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03693"
+   ],
+   "b": [
+    "BU2",
+    "2437"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0691",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00097"
+   ],
+   "b": [
+    "BU2",
+    "2220"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0694",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02323"
+   ],
+   "b": [
+    "BU2",
+    "2582"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0696",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02549"
+   ],
+   "b": [
+    "BU2",
+    "2988"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0699",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04288"
+   ],
+   "b": [
+    "BU2",
+    "2508"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0703",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03626"
+   ],
+   "b": [
+    "BU2",
+    "2181"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0707",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01196"
+   ],
+   "b": [
+    "BU1",
+    "C04391"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0708",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01196"
+   ],
+   "b": [
+    "BU2",
+    "2019"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0709",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04391"
+   ],
+   "b": [
+    "BU2",
+    "2019"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0710",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04144"
+   ],
+   "b": [
+    "BU2",
+    "4177"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0713",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03530"
+   ],
+   "b": [
+    "BU2",
+    "2755"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0718",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01440"
+   ],
+   "b": [
+    "BU2",
+    "3122"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0721",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02327"
+   ],
+   "b": [
+    "BU2",
+    "3878"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0723",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01847"
+   ],
+   "b": [
+    "BU2",
+    "1676"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0732",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00619"
+   ],
+   "b": [
+    "BU2",
+    "4079"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0733",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01168"
+   ],
+   "b": [
+    "BU2",
+    "914"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0736",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02017"
+   ],
+   "b": [
+    "BU2",
+    "3728"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0737",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02371"
+   ],
+   "b": [
+    "BU2",
+    "3871"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0739",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03860"
+   ],
+   "b": [
+    "BU2",
+    "2370"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0744",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00487"
+   ],
+   "b": [
+    "BU2",
+    "1803"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0745",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00989"
+   ],
+   "b": [
+    "BU2",
+    "598"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0749",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04022"
+   ],
+   "b": [
+    "BU2",
+    "2816"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0753",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02626"
+   ],
+   "b": [
+    "BU2",
+    "3340"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0755",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03202"
+   ],
+   "b": [
+    "BU2",
+    "2729"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0756",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03486"
+   ],
+   "b": [
+    "BU2",
+    "1389"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0757",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01109"
+   ],
+   "b": [
+    "BU2",
+    "877"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0759",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04427"
+   ],
+   "b": [
+    "BU2",
+    "877"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0760",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00399"
+   ],
+   "b": [
+    "BU2",
+    "1645"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0761",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00399"
+   ],
+   "b": [
+    "BU2",
+    "4429"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0762",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02437"
+   ],
+   "b": [
+    "BU1",
+    "C04367"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0764",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04367"
+   ],
+   "b": [
+    "BU2",
+    "3644"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0766",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00303"
+   ],
+   "b": [
+    "BU2",
+    "1597"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0768",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02789"
+   ],
+   "b": [
+    "BU2",
+    "2575"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0769",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02233"
+   ],
+   "b": [
+    "BU2",
+    "1471"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0771",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02706"
+   ],
+   "b": [
+    "BU2",
+    "2120"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0772",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01232"
+   ],
+   "b": [
+    "BU2",
+    "2325"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0776",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02718"
+   ],
+   "b": [
+    "BU2",
+    "600"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0777",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01771"
+   ],
+   "b": [
+    "BU2",
+    "1773"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0778",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02906"
+   ],
+   "b": [
+    "BU2",
+    "2949"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0781",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02354"
+   ],
+   "b": [
+    "BU2",
+    "4149"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0782",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01994"
+   ],
+   "b": [
+    "BU2",
+    "2280"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0783",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03965"
+   ],
+   "b": [
+    "BU2",
+    "693"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0784",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02162"
+   ],
+   "b": [
+    "BU2",
+    "2442"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0785",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02072"
+   ],
+   "b": [
+    "BU2",
+    "4403"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0790",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2511"
+   ],
+   "b": [
+    "BU2",
+    "4403"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0791",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02115"
+   ],
+   "b": [
+    "BU2",
+    "3288"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0797",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03830"
+   ],
+   "b": [
+    "BU2",
+    "2832"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0798",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01659"
+   ],
+   "b": [
+    "BU1",
+    "C04397"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0802",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01636"
+   ],
+   "b": [
+    "BU2",
+    "4439"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0807",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00084"
+   ],
+   "b": [
+    "BU2",
+    "2775"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0809",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01389"
+   ],
+   "b": [
+    "BU2",
+    "3949"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0813",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01001"
+   ],
+   "b": [
+    "BU2",
+    "219"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0817",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00640"
+   ],
+   "b": [
+    "BU2",
+    "2346"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0819",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02497"
+   ],
+   "b": [
+    "BU2",
+    "990"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0820",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03836"
+   ],
+   "b": [
+    "BU2",
+    "3941"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0824",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04138"
+   ],
+   "b": [
+    "BU2",
+    "905"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0825",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02994"
+   ],
+   "b": [
+    "BU2",
+    "4195"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0828",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01621"
+   ],
+   "b": [
+    "BU2",
+    "2639"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0829",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02947"
+   ],
+   "b": [
+    "BU2",
+    "1923"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0830",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03392"
+   ],
+   "b": [
+    "BU2",
+    "2307"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0832",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2307"
+   ],
+   "b": [
+    "BU2",
+    "4443"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0834",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02425"
+   ],
+   "b": [
+    "BU2",
+    "2380"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0835",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01738"
+   ],
+   "b": [
+    "BU2",
+    "4026"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0836",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00570"
+   ],
+   "b": [
+    "BU2",
+    "3428"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0837",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03848"
+   ],
+   "b": [
+    "BU2",
+    "3184"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0839",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02240"
+   ],
+   "b": [
+    "BU2",
+    "3594"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0841",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01573"
+   ],
+   "b": [
+    "BU2",
+    "4091"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0843",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04413"
+   ],
+   "b": [
+    "BU2",
+    "494"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0847",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01323"
+   ],
+   "b": [
+    "BU2",
+    "2320"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0850",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03532"
+   ],
+   "b": [
+    "BU2",
+    "2824"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0854",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04003"
+   ],
+   "b": [
+    "BU2",
+    "796"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0855",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04299"
+   ],
+   "b": [
+    "BU2",
+    "2373"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0856",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02913"
+   ],
+   "b": [
+    "BU2",
+    "80"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0857",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00614"
+   ],
+   "b": [
+    "BU2",
+    "4357"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0864",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "4314"
+   ],
+   "b": [
+    "BU2",
+    "4357"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0865",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03714"
+   ],
+   "b": [
+    "BU2",
+    "184"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0867",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00333"
+   ],
+   "b": [
+    "BU2",
+    "3031"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0868",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03177"
+   ],
+   "b": [
+    "BU2",
+    "565"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0870",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02063"
+   ],
+   "b": [
+    "BU2",
+    "667"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0872",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00331"
+   ],
+   "b": [
+    "BU2",
+    "3441"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0877",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01960"
+   ],
+   "b": [
+    "BU2",
+    "2345"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0880",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04119"
+   ],
+   "b": [
+    "BU2",
+    "328"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0882",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04032"
+   ],
+   "b": [
+    "BU2",
+    "969"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0884",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00828"
+   ],
+   "b": [
+    "BU2",
+    "2595"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0886",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02484"
+   ],
+   "b": [
+    "BU2",
+    "4209"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0887",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03412"
+   ],
+   "b": [
+    "BU2",
+    "1935"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0888",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02410"
+   ],
+   "b": [
+    "BU2",
+    "2110"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0889",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02212"
+   ],
+   "b": [
+    "BU2",
+    "2271"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0890",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01285"
+   ],
+   "b": [
+    "BU2",
+    "4138"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0891",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00484"
+   ],
+   "b": [
+    "BU2",
+    "1668"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0893",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00054"
+   ],
+   "b": [
+    "BU2",
+    "1997"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0894",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00195"
+   ],
+   "b": [
+    "BU2",
+    "1089"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0895",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02795"
+   ],
+   "b": [
+    "BU2",
+    "1860"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0897",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02916"
+   ],
+   "b": [
+    "BU2",
+    "2583"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0898",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00505"
+   ],
+   "b": [
+    "BU2",
+    "1373"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0899",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00236"
+   ],
+   "b": [
+    "BU2",
+    "2869"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0900",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00649"
+   ],
+   "b": [
+    "BU2",
+    "1565"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0901",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00403"
+   ],
+   "b": [
+    "BU2",
+    "3955"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0911",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02041"
+   ],
+   "b": [
+    "BU2",
+    "4057"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0914",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00262"
+   ],
+   "b": [
+    "BU2",
+    "1368"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0918",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03396"
+   ],
+   "b": [
+    "BU2",
+    "3777"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0919",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00027"
+   ],
+   "b": [
+    "BU2",
+    "1006"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0924",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01457"
+   ],
+   "b": [
+    "BU2",
+    "487"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0927",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00456"
+   ],
+   "b": [
+    "BU2",
+    "180"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0929",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02746"
+   ],
+   "b": [
+    "BU2",
+    "3555"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0930",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04329"
+   ],
+   "b": [
+    "BU2",
+    "113"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0933",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00078"
+   ],
+   "b": [
+    "BU2",
+    "2331"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0936",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02276"
+   ],
+   "b": [
+    "BU2",
+    "2762"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0938",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02454"
+   ],
+   "b": [
+    "BU2",
+    "2752"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0939",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02043"
+   ],
+   "b": [
+    "BU1",
+    "C04359"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0941",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02043"
+   ],
+   "b": [
+    "BU2",
+    "2278"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0942",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04359"
+   ],
+   "b": [
+    "BU2",
+    "2278"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0943",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03755"
+   ],
+   "b": [
+    "BU2",
+    "1545"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0947",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04186"
+   ],
+   "b": [
+    "BU2",
+    "1099"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0948",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02833"
+   ],
+   "b": [
+    "BU2",
+    "3630"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0951",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00025"
+   ],
+   "b": [
+    "BU2",
+    "3010"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0955",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00747"
+   ],
+   "b": [
+    "BU2",
+    "2681"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0957",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02705"
+   ],
+   "b": [
+    "BU2",
+    "3065"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0958",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04399"
+   ],
+   "b": [
+    "BU2",
+    "225"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0961",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04389"
+   ],
+   "b": [
+    "BU2",
+    "1810"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0966",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03406"
+   ],
+   "b": [
+    "BU2",
+    "2898"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0967",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01702"
+   ],
+   "b": [
+    "BU2",
+    "1592"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0968",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00797"
+   ],
+   "b": [
+    "BU1",
+    "C04431"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0970",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00797"
+   ],
+   "b": [
+    "BU2",
+    "1195"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0971",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03227"
+   ],
+   "b": [
+    "BU2",
+    "70"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0973",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01408"
+   ],
+   "b": [
+    "BU2",
+    "961"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0975",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00343"
+   ],
+   "b": [
+    "BU2",
+    "1907"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0976",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01318"
+   ],
+   "b": [
+    "BU2",
+    "3910"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0980",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01612"
+   ],
+   "b": [
+    "BU2",
+    "587"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0981",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01832"
+   ],
+   "b": [
+    "BU2",
+    "1589"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0984",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02392"
+   ],
+   "b": [
+    "BU2",
+    "3489"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0985",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03243"
+   ],
+   "b": [
+    "BU2",
+    "2831"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0986",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01640"
+   ],
+   "b": [
+    "BU2",
+    "989"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0987",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03190"
+   ],
+   "b": [
+    "BU2",
+    "2357"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0988",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01351"
+   ],
+   "b": [
+    "BU2",
+    "2665"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0989",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03106"
+   ],
+   "b": [
+    "BU2",
+    "3360"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0990",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01946"
+   ],
+   "b": [
+    "BU2",
+    "2223"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0993",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01824"
+   ],
+   "b": [
+    "BU2",
+    "417"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0994",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03584"
+   ],
+   "b": [
+    "BU2",
+    "733"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-0995",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03876"
+   ],
+   "b": [
+    "BU1",
+    "C04383"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1000",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03876"
+   ],
+   "b": [
+    "BU2",
+    "2888"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1001",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04383"
+   ],
+   "b": [
+    "BU2",
+    "2888"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1002",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03875"
+   ],
+   "b": [
+    "BU2",
+    "2718"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1003",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02576"
+   ],
+   "b": [
+    "BU1",
+    "C04417"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1004",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02683"
+   ],
+   "b": [
+    "BU1",
+    "C04445"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1007",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00243"
+   ],
+   "b": [
+    "BU1",
+    "C04419"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1009",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02736"
+   ],
+   "b": [
+    "BU1",
+    "C04357"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1010",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03920"
+   ],
+   "b": [
+    "BU1",
+    "C04421"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1018",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01214"
+   ],
+   "b": [
+    "BU1",
+    "C04407"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1025",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02478"
+   ],
+   "b": [
+    "BU1",
+    "C04369"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1029",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04196"
+   ],
+   "b": [
+    "BU1",
+    "C04361"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1031",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03681"
+   ],
+   "b": [
+    "BU1",
+    "C04437"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1032",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03320"
+   ],
+   "b": [
+    "BU1",
+    "C04373"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1033",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02022"
+   ],
+   "b": [
+    "BU1",
+    "C04411"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1034",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01345"
+   ],
+   "b": [
+    "BU1",
+    "C04377"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1035",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02382"
+   ],
+   "b": [
+    "BU1",
+    "C04365"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1036",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1185"
+   ],
+   "b": [
+    "BU2",
+    "4423"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1037",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2339"
+   ],
+   "b": [
+    "BU2",
+    "4365"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1038",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "4312"
+   ],
+   "b": [
+    "BU2",
+    "4409"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1039",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "944"
+   ],
+   "b": [
+    "BU2",
+    "4359"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1040",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2263"
+   ],
+   "b": [
+    "BU2",
+    "4367"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1042",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1408"
+   ],
+   "b": [
+    "BU2",
+    "4441"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1051",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "3735"
+   ],
+   "b": [
+    "BU2",
+    "4413"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1053",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "872"
+   ],
+   "b": [
+    "BU2",
+    "4393"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1054",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "440"
+   ],
+   "b": [
+    "BU2",
+    "4363"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1055",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "3133"
+   ],
+   "b": [
+    "BU2",
+    "4401"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1057",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "537"
+   ],
+   "b": [
+    "BU2",
+    "4381"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1058",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "4121"
+   ],
+   "b": [
+    "BU2",
+    "4375"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1062",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2964"
+   ],
+   "b": [
+    "BU2",
+    "4425"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1063",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "591"
+   ],
+   "b": [
+    "BU2",
+    "4395"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1064",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1631"
+   ],
+   "b": [
+    "BU2",
+    "4427"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1065",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1147"
+   ],
+   "b": [
+    "BU2",
+    "4421"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1066",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1741"
+   ],
+   "b": [
+    "BU2",
+    "4371"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1069",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "697"
+   ],
+   "b": [
+    "BU2",
+    "4415"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1070",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2448"
+   ],
+   "b": [
+    "BU2",
+    "4391"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1071",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "4319"
+   ],
+   "b": [
+    "BU2",
+    "4419"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1073",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01464"
+   ],
+   "b": [
+    "BU2",
+    "2987"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1074",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02036"
+   ],
+   "b": [
+    "BU2",
+    "3939"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1077",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00743"
+   ],
+   "b": [
+    "BU2",
+    "723"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1079",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02360"
+   ],
+   "b": [
+    "BU2",
+    "2906"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1083",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04248"
+   ],
+   "b": [
+    "BU2",
+    "100"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1091",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01737"
+   ],
+   "b": [
+    "BU2",
+    "1390"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1095",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03707"
+   ],
+   "b": [
+    "BU2",
+    "3872"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1096",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04154"
+   ],
+   "b": [
+    "BU2",
+    "23"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1097",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02495"
+   ],
+   "b": [
+    "BU2",
+    "135"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1098",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00948"
+   ],
+   "b": [
+    "BU2",
+    "4188"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1099",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01047"
+   ],
+   "b": [
+    "BU2",
+    "3207"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1102",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03462"
+   ],
+   "b": [
+    "BU2",
+    "715"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1104",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00015"
+   ],
+   "b": [
+    "BU2",
+    "3862"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1105",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00067"
+   ],
+   "b": [
+    "BU2",
+    "2686"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1106",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01990"
+   ],
+   "b": [
+    "BU2",
+    "963"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1107",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04347"
+   ],
+   "b": [
+    "BU2",
+    "682"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1108",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03930"
+   ],
+   "b": [
+    "BU1",
+    "V04411"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1109",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03092"
+   ],
+   "b": [
+    "BU2",
+    "1163"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1118",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00270"
+   ],
+   "b": [
+    "BU2",
+    "3350"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1119",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01081"
+   ],
+   "b": [
+    "BU2",
+    "312"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1122",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04443"
+   ],
+   "b": [
+    "BU2",
+    "312"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1123",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03146"
+   ],
+   "b": [
+    "BU2",
+    "37"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1126",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02838"
+   ],
+   "b": [
+    "BU2",
+    "3382"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1128",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04055"
+   ],
+   "b": [
+    "BU2",
+    "3589"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1132",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04122"
+   ],
+   "b": [
+    "BU2",
+    "139"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1133",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01508"
+   ],
+   "b": [
+    "BU2",
+    "2752"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1134",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03530"
+   ],
+   "b": [
+    "BU2",
+    "3717"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1139",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01426"
+   ],
+   "b": [
+    "BU2",
+    "2128"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1140",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01426"
+   ],
+   "b": [
+    "BU2",
+    "4389"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1141",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00433"
+   ],
+   "b": [
+    "BU2",
+    "2907"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1143",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04175"
+   ],
+   "b": [
+    "BU2",
+    "2639"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1144",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03031"
+   ],
+   "b": [
+    "BU2",
+    "4094"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1146",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03911"
+   ],
+   "b": [
+    "BU2",
+    "1351"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1148",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02635"
+   ],
+   "b": [
+    "BU1",
+    "V04369"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1151",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04369"
+   ],
+   "b": [
+    "BU2",
+    "2727"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1153",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01767"
+   ],
+   "b": [
+    "BU2",
+    "3363"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1154",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02293"
+   ],
+   "b": [
+    "BU2",
+    "4441"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1156",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01404"
+   ],
+   "b": [
+    "BU2",
+    "402"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1159",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00265"
+   ],
+   "b": [
+    "BU2",
+    "2168"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1160",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00781"
+   ],
+   "b": [
+    "BU2",
+    "152"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1161",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00718"
+   ],
+   "b": [
+    "BU2",
+    "2577"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1163",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03181"
+   ],
+   "b": [
+    "BU2",
+    "2189"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1165",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03548"
+   ],
+   "b": [
+    "BU2",
+    "449"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1171",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00534"
+   ],
+   "b": [
+    "BU2",
+    "3464"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1173",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00156"
+   ],
+   "b": [
+    "BU2",
+    "595"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1179",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03352"
+   ],
+   "b": [
+    "BU2",
+    "2891"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1180",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01481"
+   ],
+   "b": [
+    "BU2",
+    "4052"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1181",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00643"
+   ],
+   "b": [
+    "BU2",
+    "4367"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1185",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "780"
+   ],
+   "b": [
+    "BU2",
+    "4367"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1186",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "2609"
+   ],
+   "b": [
+    "BU2",
+    "4445"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1191",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01535"
+   ],
+   "b": [
+    "BU2",
+    "2830"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1192",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02354"
+   ],
+   "b": [
+    "BU2",
+    "2473"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1193",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00151"
+   ],
+   "b": [
+    "BU2",
+    "2509"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1194",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02143"
+   ],
+   "b": [
+    "BU2",
+    "1611"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1197",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03508"
+   ],
+   "b": [
+    "BU2",
+    "2004"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1198",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04312"
+   ],
+   "b": [
+    "BU2",
+    "3655"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1202",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04199"
+   ],
+   "b": [
+    "BU2",
+    "1318"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1204",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02255"
+   ],
+   "b": [
+    "BU2",
+    "2951"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1205",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04031"
+   ],
+   "b": [
+    "BU2",
+    "2692"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1212",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03478"
+   ],
+   "b": [
+    "BU2",
+    "806"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1214",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03633"
+   ],
+   "b": [
+    "BU2",
+    "1804"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1218",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01058"
+   ],
+   "b": [
+    "BU2",
+    "3194"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1220",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03693"
+   ],
+   "b": [
+    "BU2",
+    "922"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1221",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00754"
+   ],
+   "b": [
+    "BU2",
+    "352"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1222",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00509"
+   ],
+   "b": [
+    "BU2",
+    "1920"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1223",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04342"
+   ],
+   "b": [
+    "BU2",
+    "3771"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1224",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02387"
+   ],
+   "b": [
+    "BU2",
+    "3318"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1226",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03016"
+   ],
+   "b": [
+    "BU2",
+    "3493"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1227",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03856"
+   ],
+   "b": [
+    "BU2",
+    "4064"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1229",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02351"
+   ],
+   "b": [
+    "BU2",
+    "908"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1230",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02573"
+   ],
+   "b": [
+    "BU2",
+    "328"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1231",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01390"
+   ],
+   "b": [
+    "BU2",
+    "4160"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1232",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00274"
+   ],
+   "b": [
+    "BU2",
+    "3303"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1234",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02603"
+   ],
+   "b": [
+    "BU2",
+    "4111"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1238",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03373"
+   ],
+   "b": [
+    "BU1",
+    "V04419"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1240",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03373"
+   ],
+   "b": [
+    "BU2",
+    "2803"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1241",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04419"
+   ],
+   "b": [
+    "BU2",
+    "2803"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1242",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03220"
+   ],
+   "b": [
+    "BU2",
+    "326"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1243",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01779"
+   ],
+   "b": [
+    "BU2",
+    "2869"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1247",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03848"
+   ],
+   "b": [
+    "BU2",
+    "3246"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1248",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01362"
+   ],
+   "b": [
+    "BU2",
+    "2549"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1249",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03178"
+   ],
+   "b": [
+    "BU2",
+    "1231"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1252",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02767"
+   ],
+   "b": [
+    "BU2",
+    "3695"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1254",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03056"
+   ],
+   "b": [
+    "BU2",
+    "3392"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1258",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00409"
+   ],
+   "b": [
+    "BU2",
+    "708"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1259",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02198"
+   ],
+   "b": [
+    "BU2",
+    "1870"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1262",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03251"
+   ],
+   "b": [
+    "BU2",
+    "236"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1265",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "236"
+   ],
+   "b": [
+    "BU2",
+    "4377"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1267",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00843"
+   ],
+   "b": [
+    "BU2",
+    "3554"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1268",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02692"
+   ],
+   "b": [
+    "BU2",
+    "562"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1270",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01228"
+   ],
+   "b": [
+    "BU2",
+    "369"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1274",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02732"
+   ],
+   "b": [
+    "BU2",
+    "899"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1275",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04307"
+   ],
+   "b": [
+    "BU2",
+    "4186"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1276",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00127"
+   ],
+   "b": [
+    "BU2",
+    "3491"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1277",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03763"
+   ],
+   "b": [
+    "BU2",
+    "1593"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1278",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00580"
+   ],
+   "b": [
+    "BU2",
+    "2997"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1280",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02575"
+   ],
+   "b": [
+    "BU2",
+    "629"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1281",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00079"
+   ],
+   "b": [
+    "BU2",
+    "2046"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1283",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00953"
+   ],
+   "b": [
+    "BU2",
+    "1256"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1285",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02657"
+   ],
+   "b": [
+    "BU2",
+    "3506"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1286",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01392"
+   ],
+   "b": [
+    "BU2",
+    "675"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1287",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02686"
+   ],
+   "b": [
+    "BU2",
+    "535"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1288",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03393"
+   ],
+   "b": [
+    "BU2",
+    "2482"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1291",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01714"
+   ],
+   "b": [
+    "BU2",
+    "1448"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1292",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02435"
+   ],
+   "b": [
+    "BU2",
+    "1118"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1298",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00582"
+   ],
+   "b": [
+    "BU2",
+    "1106"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1300",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00883"
+   ],
+   "b": [
+    "BU2",
+    "1628"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1301",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00664"
+   ],
+   "b": [
+    "BU2",
+    "2701"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1304",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01104"
+   ],
+   "b": [
+    "BU2",
+    "809"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1305",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02735"
+   ],
+   "b": [
+    "BU2",
+    "1272"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1306",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01450"
+   ],
+   "b": [
+    "BU2",
+    "1409"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1310",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01825"
+   ],
+   "b": [
+    "BU1",
+    "V04361"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1315",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04361"
+   ],
+   "b": [
+    "BU2",
+    "1440"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1317",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03614"
+   ],
+   "b": [
+    "BU1",
+    "V04379"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1318",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01270"
+   ],
+   "b": [
+    "BU1",
+    "V04357"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1321",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00699"
+   ],
+   "b": [
+    "BU2",
+    "3585"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1325",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02326"
+   ],
+   "b": [
+    "BU2",
+    "2784"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1326",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01126"
+   ],
+   "b": [
+    "BU2",
+    "3930"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1327",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01265"
+   ],
+   "b": [
+    "BU2",
+    "1980"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1328",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03156"
+   ],
+   "b": [
+    "BU2",
+    "4182"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1330",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03138"
+   ],
+   "b": [
+    "BU2",
+    "1399"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1332",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1399"
+   ],
+   "b": [
+    "BU2",
+    "4379"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1334",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04023"
+   ],
+   "b": [
+    "BU2",
+    "3277"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1336",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02122"
+   ],
+   "b": [
+    "BU2",
+    "407"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1337",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02589"
+   ],
+   "b": [
+    "BU2",
+    "3345"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1338",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03987"
+   ],
+   "b": [
+    "BU2",
+    "3630"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1340",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01898"
+   ],
+   "b": [
+    "BU2",
+    "4139"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1341",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03040"
+   ],
+   "b": [
+    "BU2",
+    "2552"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1344",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03155"
+   ],
+   "b": [
+    "BU2",
+    "3859"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1347",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03892"
+   ],
+   "b": [
+    "BU2",
+    "1229"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1352",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00363"
+   ],
+   "b": [
+    "BU2",
+    "3642"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1354",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01928"
+   ],
+   "b": [
+    "BU2",
+    "2367"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1355",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02191"
+   ],
+   "b": [
+    "BU2",
+    "1080"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1356",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00086"
+   ],
+   "b": [
+    "BU2",
+    "2177"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1358",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01496"
+   ],
+   "b": [
+    "BU2",
+    "2589"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1361",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02664"
+   ],
+   "b": [
+    "BU2",
+    "3174"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1362",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02453"
+   ],
+   "b": [
+    "BU2",
+    "4361"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1365",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04242"
+   ],
+   "b": [
+    "BU2",
+    "3367"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1371",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01311"
+   ],
+   "b": [
+    "BU2",
+    "678"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1375",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02324"
+   ],
+   "b": [
+    "BU2",
+    "457"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1376",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01720"
+   ],
+   "b": [
+    "BU2",
+    "4080"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1377",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01482"
+   ],
+   "b": [
+    "BU2",
+    "3326"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1378",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00636"
+   ],
+   "b": [
+    "BU2",
+    "1904"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1379",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01702"
+   ],
+   "b": [
+    "BU2",
+    "2423"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1382",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04099"
+   ],
+   "b": [
+    "BU2",
+    "2678"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1383",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03743"
+   ],
+   "b": [
+    "BU2",
+    "1258"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1384",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00369"
+   ],
+   "b": [
+    "BU2",
+    "1042"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1387",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01621"
+   ],
+   "b": [
+    "BU2",
+    "3228"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1388",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01915"
+   ],
+   "b": [
+    "BU2",
+    "1364"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1391",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01558"
+   ],
+   "b": [
+    "BU2",
+    "40"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1393",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00242"
+   ],
+   "b": [
+    "BU2",
+    "1799"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1394",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03872"
+   ],
+   "b": [
+    "BU2",
+    "2145"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1399",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03025"
+   ],
+   "b": [
+    "BU2",
+    "3355"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1400",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03890"
+   ],
+   "b": [
+    "BU2",
+    "1109"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1402",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01822"
+   ],
+   "b": [
+    "BU2",
+    "516"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1413",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03053"
+   ],
+   "b": [
+    "BU2",
+    "3112"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1414",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00226"
+   ],
+   "b": [
+    "BU2",
+    "2526"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1415",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02987"
+   ],
+   "b": [
+    "BU1",
+    "V04441"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1417",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02927"
+   ],
+   "b": [
+    "BU1",
+    "V04399"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1419",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00283"
+   ],
+   "b": [
+    "BU1",
+    "V04395"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1421",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02459"
+   ],
+   "b": [
+    "BU1",
+    "V04425"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1422",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04080"
+   ],
+   "b": [
+    "BU1",
+    "V04373"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1423",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03188"
+   ],
+   "b": [
+    "BU1",
+    "V04359"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1424",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01408"
+   ],
+   "b": [
+    "BU1",
+    "V04421"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1425",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00160"
+   ],
+   "b": [
+    "BU1",
+    "V04371"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1426",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00482"
+   ],
+   "b": [
+    "BU1",
+    "V04387"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1427",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03388"
+   ],
+   "b": [
+    "BU1",
+    "V04417"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1429",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00360"
+   ],
+   "b": [
+    "BU1",
+    "V04429"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1432",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00453"
+   ],
+   "b": [
+    "BU1",
+    "V04407"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1433",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03474"
+   ],
+   "b": [
+    "BU1",
+    "V04405"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1436",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02990"
+   ],
+   "b": [
+    "BU1",
+    "V04439"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1438",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04107"
+   ],
+   "b": [
+    "BU1",
+    "V04393"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1439",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04051"
+   ],
+   "b": [
+    "BU1",
+    "V04397"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1441",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00276"
+   ],
+   "b": [
+    "BU1",
+    "V04381"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1446",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00626"
+   ],
+   "b": [
+    "BU1",
+    "V04365"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1447",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "2762"
+   ],
+   "b": [
+    "BU2",
+    "4407"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1452",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "94"
+   ],
+   "b": [
+    "BU2",
+    "4421"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1454",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "2925"
+   ],
+   "b": [
+    "BU2",
+    "4375"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1456",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3739"
+   ],
+   "b": [
+    "BU2",
+    "4439"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1458",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1083"
+   ],
+   "b": [
+    "BU2",
+    "4381"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1461",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3990"
+   ],
+   "b": [
+    "BU2",
+    "4415"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1462",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3120"
+   ],
+   "b": [
+    "BU2",
+    "4385"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1463",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1429"
+   ],
+   "b": [
+    "BU2",
+    "4395"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1464",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3875"
+   ],
+   "b": [
+    "BU2",
+    "4387"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1465",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1472"
+   ],
+   "b": [
+    "BU2",
+    "4433"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1469",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "2012"
+   ],
+   "b": [
+    "BU2",
+    "4391"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1472",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1569"
+   ],
+   "b": [
+    "BU2",
+    "4399"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1474",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1793"
+   ],
+   "b": [
+    "BU2",
+    "4417"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1475",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3256"
+   ],
+   "b": [
+    "BU2",
+    "4425"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1476",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3360"
+   ],
+   "b": [
+    "BU2",
+    "4357"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1477",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3235"
+   ],
+   "b": [
+    "BU2",
+    "4443"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1478",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "2329"
+   ],
+   "b": [
+    "BU2",
+    "4365"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1479",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "598"
+   ],
+   "b": [
+    "BU2",
+    "4409"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1481",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1866"
+   ],
+   "b": [
+    "BU2",
+    "4431"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1483",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "4327"
+   ],
+   "b": [
+    "BU2",
+    "4401"
+   ],
+   "decision": "MERGE",
+   "ticket": "DQ-1484",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03717"
+   ],
+   "b": [
+    "BU2",
+    "81"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1485",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02780"
+   ],
+   "b": [
+    "BU2",
+    "1061"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1487",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03897"
+   ],
+   "b": [
+    "BU2",
+    "1652"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1492",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02351"
+   ],
+   "b": [
+    "BU2",
+    "68"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1493",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00289"
+   ],
+   "b": [
+    "BU2",
+    "2861"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1494",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01539"
+   ],
+   "b": [
+    "BU1",
+    "C02306"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1495",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01539"
+   ],
+   "b": [
+    "BU2",
+    "197"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1496",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00291"
+   ],
+   "b": [
+    "BU2",
+    "4222"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1497",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02573"
+   ],
+   "b": [
+    "BU2",
+    "3972"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1498",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01755"
+   ],
+   "b": [
+    "BU1",
+    "C00054"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1499",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02902"
+   ],
+   "b": [
+    "BU2",
+    "594"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1501",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00743"
+   ],
+   "b": [
+    "BU1",
+    "C00517"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1502",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00743"
+   ],
+   "b": [
+    "BU2",
+    "2962"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1503",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03352"
+   ],
+   "b": [
+    "BU2",
+    "3031"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1508",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03035"
+   ],
+   "b": [
+    "BU2",
+    "2572"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1511",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04240"
+   ],
+   "b": [
+    "BU2",
+    "2057"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1512",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00260"
+   ],
+   "b": [
+    "BU2",
+    "42"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1513",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00118"
+   ],
+   "b": [
+    "BU2",
+    "3791"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1515",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02979"
+   ],
+   "b": [
+    "BU2",
+    "2383"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1516",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01050"
+   ],
+   "b": [
+    "BU2",
+    "1102"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1518",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00936"
+   ],
+   "b": [
+    "BU2",
+    "1923"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1520",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04306"
+   ],
+   "b": [
+    "BU2",
+    "130"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1521",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00576"
+   ],
+   "b": [
+    "BU2",
+    "1104"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1525",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00855"
+   ],
+   "b": [
+    "BU2",
+    "3067"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1526",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04117"
+   ],
+   "b": [
+    "BU2",
+    "2157"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1527",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C00768"
+   ],
+   "b": [
+    "BU1",
+    "C03995"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1528",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01840"
+   ],
+   "b": [
+    "BU1",
+    "C04230"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1530",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03290"
+   ],
+   "b": [
+    "BU1",
+    "C01285"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1532",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C02730"
+   ],
+   "b": [
+    "BU2",
+    "2982"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1534",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C03812"
+   ],
+   "b": [
+    "BU2",
+    "4413"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1539",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C04095"
+   ],
+   "b": [
+    "BU2",
+    "1627"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1541",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU1",
+    "C01158"
+   ],
+   "b": [
+    "BU2",
+    "1119"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1542",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "3880"
+   ],
+   "b": [
+    "BU2",
+    "1237"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1544",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "68"
+   ],
+   "b": [
+    "BU1",
+    "C03942"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1545",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "167"
+   ],
+   "b": [
+    "BU1",
+    "C00898"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1546",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "3970"
+   ],
+   "b": [
+    "BU1",
+    "C02696"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1548",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1800"
+   ],
+   "b": [
+    "BU1",
+    "C02910"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1549",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1538"
+   ],
+   "b": [
+    "BU1",
+    "C00076"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1550",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2547"
+   ],
+   "b": [
+    "BU1",
+    "C00628"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1554",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1433"
+   ],
+   "b": [
+    "BU1",
+    "C02183"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1559",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "4127"
+   ],
+   "b": [
+    "BU1",
+    "C00170"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1560",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "4168"
+   ],
+   "b": [
+    "BU1",
+    "C01132"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1561",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1278"
+   ],
+   "b": [
+    "BU1",
+    "C01616"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1562",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1080"
+   ],
+   "b": [
+    "BU1",
+    "C00247"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1566",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1268"
+   ],
+   "b": [
+    "BU1",
+    "C00884"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1567",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2478"
+   ],
+   "b": [
+    "BU1",
+    "C04125"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1568",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2478"
+   ],
+   "b": [
+    "BU2",
+    "2939"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1569",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "447"
+   ],
+   "b": [
+    "BU1",
+    "C04335"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1576",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "3918"
+   ],
+   "b": [
+    "BU1",
+    "C02030"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1577",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "3780"
+   ],
+   "b": [
+    "BU1",
+    "C02312"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1578",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "25"
+   ],
+   "b": [
+    "BU1",
+    "C04403"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1580",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "3692"
+   ],
+   "b": [
+    "BU1",
+    "C02192"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1582",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2157"
+   ],
+   "b": [
+    "BU1",
+    "C03281"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1583",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1107"
+   ],
+   "b": [
+    "BU1",
+    "C03328"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1587",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1107"
+   ],
+   "b": [
+    "BU2",
+    "4129"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1588",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2879"
+   ],
+   "b": [
+    "BU1",
+    "C03456"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1589",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "2069"
+   ],
+   "b": [
+    "BU1",
+    "C00539"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1591",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "customer",
+   "a": [
+    "BU2",
+    "1649"
+   ],
+   "b": [
+    "BU1",
+    "C00688"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1592",
+   "owner": "Sales Ops / AR"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03758"
+   ],
+   "b": [
+    "BU2",
+    "2203"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1593",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02477"
+   ],
+   "b": [
+    "BU2",
+    "331"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1598",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03304"
+   ],
+   "b": [
+    "BU2",
+    "2200"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1599",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01282"
+   ],
+   "b": [
+    "BU2",
+    "3724"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1602",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00686"
+   ],
+   "b": [
+    "BU2",
+    "2262"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1604",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02413"
+   ],
+   "b": [
+    "BU2",
+    "3500"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1606",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04322"
+   ],
+   "b": [
+    "BU2",
+    "4239"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1609",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00095"
+   ],
+   "b": [
+    "BU2",
+    "59"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1610",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01148"
+   ],
+   "b": [
+    "BU2",
+    "1573"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1612",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01517"
+   ],
+   "b": [
+    "BU1",
+    "V03876"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1615",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02913"
+   ],
+   "b": [
+    "BU1",
+    "V03181"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1622",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02913"
+   ],
+   "b": [
+    "BU2",
+    "2189"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1623",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00104"
+   ],
+   "b": [
+    "BU2",
+    "3692"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1624",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01670"
+   ],
+   "b": [
+    "BU2",
+    "1864"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1625",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03581"
+   ],
+   "b": [
+    "BU2",
+    "1416"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1626",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00878"
+   ],
+   "b": [
+    "BU2",
+    "163"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1627",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01475"
+   ],
+   "b": [
+    "BU1",
+    "V00920"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1628",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01475"
+   ],
+   "b": [
+    "BU2",
+    "2583"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1629",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00256"
+   ],
+   "b": [
+    "BU2",
+    "3655"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1631",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00840"
+   ],
+   "b": [
+    "BU2",
+    "3919"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1632",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01585"
+   ],
+   "b": [
+    "BU2",
+    "3199"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1634",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V01892"
+   ],
+   "b": [
+    "BU1",
+    "V03028"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1635",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03821"
+   ],
+   "b": [
+    "BU2",
+    "3117"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1642",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V04339"
+   ],
+   "b": [
+    "BU2",
+    "1487"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1643",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V02974"
+   ],
+   "b": [
+    "BU2",
+    "3261"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1644",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00100"
+   ],
+   "b": [
+    "BU2",
+    "1746"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1645",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03739"
+   ],
+   "b": [
+    "BU2",
+    "1925"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1647",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00416"
+   ],
+   "b": [
+    "BU1",
+    "V01508"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1648",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V00416"
+   ],
+   "b": [
+    "BU2",
+    "2752"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1649",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU1",
+    "V03118"
+   ],
+   "b": [
+    "BU2",
+    "1672"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1650",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3017"
+   ],
+   "b": [
+    "BU1",
+    "V03163"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1657",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3017"
+   ],
+   "b": [
+    "BU2",
+    "1189"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1658",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3659"
+   ],
+   "b": [
+    "BU1",
+    "V00138"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1659",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1915"
+   ],
+   "b": [
+    "BU1",
+    "V00438"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1660",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "970"
+   ],
+   "b": [
+    "BU1",
+    "V01967"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1661",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1724"
+   ],
+   "b": [
+    "BU1",
+    "V02631"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1662",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "622"
+   ],
+   "b": [
+    "BU1",
+    "V01349"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1663",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "573"
+   ],
+   "b": [
+    "BU1",
+    "V02788"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1664",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "607"
+   ],
+   "b": [
+    "BU1",
+    "V00776"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1665",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "2946"
+   ],
+   "b": [
+    "BU1",
+    "V01671"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1668",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1455"
+   ],
+   "b": [
+    "BU1",
+    "V04363"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1672",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3751"
+   ],
+   "b": [
+    "BU2",
+    "2656"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1674",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1843"
+   ],
+   "b": [
+    "BU1",
+    "V01631"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1683",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1691"
+   ],
+   "b": [
+    "BU1",
+    "V01643"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1685",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "4276"
+   ],
+   "b": [
+    "BU1",
+    "V00072"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1686",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1959"
+   ],
+   "b": [
+    "BU1",
+    "V00334"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1687",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "3398"
+   ],
+   "b": [
+    "BU1",
+    "V01972"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1691",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "2754"
+   ],
+   "b": [
+    "BU1",
+    "V00728"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1694",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1405"
+   ],
+   "b": [
+    "BU1",
+    "V00376"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1696",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "624"
+   ],
+   "b": [
+    "BU2",
+    "51"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1699",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "4302"
+   ],
+   "b": [
+    "BU1",
+    "V03109"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1701",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "2939"
+   ],
+   "b": [
+    "BU1",
+    "V03765"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1705",
+   "owner": "Procurement / AP"
+  },
+  {
+   "entity": "vendor",
+   "a": [
+    "BU2",
+    "1588"
+   ],
+   "b": [
+    "BU1",
+    "V02138"
+   ],
+   "decision": "KEEP_SEPARATE",
+   "ticket": "DQ-1709",
+   "owner": "Procurement / AP"
+  }
+ ],
+ "gl_adjustments": [
+  {
+   "bu": "BU2",
+   "debit_account": "69000",
+   "credit_account": "20000",
+   "amount_cents": 128455,
+   "memo": "Finance JE: correct AP control to sub-ledger before cutover",
+   "ticket": "DQ-GL-001",
+   "owner": "Controller"
+  }
+ ]
+}

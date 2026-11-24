@@ -1,0 +1,42 @@
+entity,bu_a,code_a,name_a,bu_b,code_b,name_b,name_score,address_score,reason
+customer,BU1,C00054,Valor Pipeline Technologies LP,BU2,1997,The Vlor Ppine Technolgies,89.8,100.0,NAME_NEAR_MATCH
+customer,BU1,C00614,Olympic Petroleum Holdings Co,BU2,4314,The Olympc Peroem Holdngs Co,89.4,100.0,NAME_NEAR_MATCH
+customer,BU1,C00859,Ironclad Gas & Supply LLC,BU2,2270,"Icad Gas & Supply, Inc.",88.2,100.0,NAME_NEAR_MATCH
+customer,BU1,C01196,Meridian Construction Services Inc,BU2,2019,Mediian Constrtoin Svcs Inc,87.7,88.9,NAME_NEAR_MATCH
+customer,BU1,C01232,Great Lakes Refining Resources LP,BU2,2325,Geat Laes Refining Reoucse Corp.,89.3,100.0,NAME_NEAR_MATCH
+customer,BU1,C01565,Patriot Industrial Resources Co,BU2,2471,Patriot Industrial Resources Comany,88.9,91.6,NAME_NEAR_MATCH
+customer,BU1,C02354,Pioneer Process Holdings Ltd,BU2,4149,Pioner Process Hoidns Ltd,88.9,91.8,NAME_NEAR_MATCH
+customer,BU1,C02414,Vanguard Midstream Solutions LLC,BU2,520,The Vanguard Mdstrema Soluinos Llc,88.9,100.0,NAME_NEAR_MATCH
+customer,BU1,C02425,Prairie Construction & Service Co,BU2,2380,The Prariie Consructin and Srveice Co,88.9,100.0,NAME_NEAR_MATCH
+customer,BU1,C02776,Kingsley Chemical Group Co,BU2,2199,Kingsely Chmail Group,86.4,100.0,NAME_NEAR_MATCH
+customer,BU1,C03190,Tidewater Refining Solutions Ltd,BU2,2357,Tideawter Refinig Soluns Ltd,88.5,100.0,NAME_NEAR_MATCH
+customer,BU1,C03243,Nova Marine Solutions LP,BU2,2831,The Nova Marine Sotiosn Lp,90.0,100.0,NAME_NEAR_MATCH
+customer,BU1,C03346,Kingsley Engineering Resources LP,BU2,2564,Kingsey Eginerng Resoruces Corp.,89.3,100.0,NAME_NEAR_MATCH
+customer,BU1,C03395,Keystone Midstream Solutions Corp,BU2,1141,Kesytne Midsrtema Solutions Corp,87.3,100.0,NAME_NEAR_MATCH
+customer,BU1,C03542,Atlas Process & Equipment LP,BU2,3865,Atlas Prcess and Euip LP,85.0,90.9,NAME_NEAR_MATCH
+customer,BU1,C03836,Granite Chemical Holdings LP,BU2,3941,Grantie Chemical Hdins LLC,89.4,100.0,NAME_NEAR_MATCH
+customer,BU1,C03978,Lone Star Terminals Operating Inc,BU2,2767,Lone Star Teins Oepating Inc,86.8,100.0,NAME_NEAR_MATCH
+customer,BU1,C04391,Meridian Construction Svcs Inc,BU2,2019,Mediian Constrtoin Svcs Inc,87.7,88.9,NAME_NEAR_MATCH
+customer,BU2,4314,The Olympc Peroem Holdngs Co,BU2,4357,Olympic Petroleum Holdings Inc.,89.4,100.0,NAME_NEAR_MATCH
+vendor,BU1,V00127,Premier Flange International Inc,BU2,3491,Prmeire Flge Intl Inc,88.9,100.0,NAME_NEAR_MATCH
+vendor,BU1,V00627,Apex Gasket Distributors Co,BU2,1034,The Apex Gskt Dsiribuors Co,86.4,93.5,NAME_NEAR_MATCH
+vendor,BU1,V00851,Summit Gasket Industries Corp,BU2,1886,Sumti Gskt Industries Corp,88.9,100.0,NAME_NEAR_MATCH
+vendor,BU1,V01126,Imperial Fasteners Mills Co,BU2,3930,The Imperail Fastneers Mlils Co,87.5,100.0,NAME_NEAR_MATCH
+vendor,BU1,V01318,Ironclad Fasteners Works Co,BU2,2609,The Irocad Fasteers Wokrs Co,88.9,100.0,NAME_NEAR_MATCH
+vendor,BU1,V01470,Premier Fittings Supply Ltd,BU2,891,The Preimer Fittings Sulpy,88.9,100.0,NAME_NEAR_MATCH
+vendor,BU1,V01496,Westfield Fasteners Distributors Ltd,BU2,2589,Wsetfiled Fasenesr Distributors Inc.,88.9,100.0,NAME_NEAR_MATCH
+vendor,BU1,V01508,Imperial Forge Mills Ltd,BU2,2752,Imperila Foreg Mills Ltd,90.0,100.0,NAME_NEAR_MATCH
+vendor,BU1,V01990,Quartz Castings Works LP,BU2,963,The Quraz Castings Wrks LP,90.0,100.0,NAME_NEAR_MATCH
+vendor,BU1,V02573,Apex Castings & Supply Corp,BU2,328,The Apex Csaings & Suply Corp,89.5,100.0,NAME_NEAR_MATCH
+vendor,BU1,V02616,Great Lakes Castings & Equipment Corp,BU2,2716,Greta Lase Castngs & Equip Corp,89.7,100.0,NAME_NEAR_MATCH
+vendor,BU1,V02673,Ridgeway Gasket Services Ltd,BU2,145,Ridgeway Gakset Servise Ltd,89.4,100.0,NAME_NEAR_MATCH
+vendor,BU1,V02686,Redwood Pipe & Tube Distributors Ltd,BU2,535,Rwood Pipe and Tube Distritbrs Ltd,89.3,89.6,NAME_NEAR_MATCH
+vendor,BU1,V02716,Evergreen Fasteners Supply LLC,BU2,1989,The Evrren Fastneers Supply LLC,89.8,90.7,NAME_NEAR_MATCH
+vendor,BU1,V02763,Cascade Castings Works LLC,BU2,748,"Casae Castis Works, LLC",90.0,100.0,NAME_NEAR_MATCH
+vendor,BU1,V03302,Lone Star Valve Distributors LLC,BU2,51,The Lone Star Vave Dsrtibtrs LLC,88.5,91.2,NAME_NEAR_MATCH
+vendor,BU1,V03578,Unity Castings Distributors Ltd,BU2,3168,Uity Csatnigs Distribuors Ltd,88.5,100.0,NAME_NEAR_MATCH
+vendor,BU1,V03856,Triumph Alloy Industries Ltd,BU2,4064,Triumph Alloy Idurise Corp.,88.9,100.0,NAME_NEAR_MATCH
+vendor,BU1,V04199,Landmark Fittings Supply Co,BU2,1318,The Landrak Fitings Suppy Co,88.9,100.0,NAME_NEAR_MATCH
+vendor,BU1,V04307,Cardinal Flange Products Ltd,BU2,4186,Cardinal Flaneg Procuts Ltd,89.4,100.0,NAME_NEAR_MATCH
+vendor,BU2,535,Rwood Pipe and Tube Distritbrs Ltd,BU2,4423,Redwood Pipe and Tube Distributors Co.,89.3,89.6,NAME_NEAR_MATCH
+vendor,BU2,2609,The Irocad Fasteers Wokrs Co,BU2,4445,Ironclad Fasteners Works LLC,88.9,100.0,NAME_NEAR_MATCH

@@ -1,0 +1,41 @@
+bu,legacy_account,ifs_account,ifs_account_name,control_role
+BU1,1000-00,1000,Cash and Equivalents,CASH
+BU1,1100-00,1200,Accounts Receivable - Trade,AR
+BU1,1300-00,1400,Inventory - Raw Materials & WIP,INV
+BU1,1400-00,1450,Prepaid Expenses,NONE
+BU1,1500-00,1700,"Property, Plant & Equipment",NONE
+BU1,1590-00,1790,Accumulated Depreciation,NONE
+BU1,2000-00,2100,Accounts Payable - Trade,AP
+BU1,2100-00,2200,Accrued Liabilities,NONE
+BU1,2200-00,2400,Customer Deposits,NONE
+BU1,2500-00,2700,Long-Term Debt,NONE
+BU1,3000-00,3000,Common Stock,NONE
+BU1,3900-00,3900,Retained Earnings,NONE
+BU1,4000-00,4000,Revenue - Fabrication,NONE
+BU1,4100-00,4100,Revenue - Field Services,NONE
+BU1,5000-00,5000,Cost of Goods Sold,NONE
+BU1,5100-00,5100,Direct Labor,NONE
+BU1,5200-00,5200,Manufacturing Overhead,NONE
+BU1,6000-00,6000,Salaries & Wages,NONE
+BU1,6100-00,6100,Rent & Utilities,NONE
+BU1,6900-00,6900,AP Adjustments / Suspense,NONE
+BU2,10000,1000,Cash and Equivalents,CASH
+BU2,11000,1200,Accounts Receivable - Trade,AR
+BU2,13000,1400,Inventory - Raw Materials & WIP,INV
+BU2,14000,1450,Prepaid Expenses,NONE
+BU2,15000,1700,"Property, Plant & Equipment",NONE
+BU2,15900,1790,Accumulated Depreciation,NONE
+BU2,20000,2100,Accounts Payable - Trade,AP
+BU2,21000,2200,Accrued Liabilities,NONE
+BU2,22000,2400,Customer Deposits,NONE
+BU2,25000,2700,Long-Term Debt,NONE
+BU2,30000,3000,Common Stock,NONE
+BU2,39000,3900,Retained Earnings,NONE
+BU2,40000,4000,Revenue - Fabrication,NONE
+BU2,41000,4100,Revenue - Field Services,NONE
+BU2,50000,5000,Cost of Goods Sold,NONE
+BU2,51000,5100,Direct Labor,NONE
+BU2,52000,5200,Manufacturing Overhead,NONE
+BU2,60000,6000,Salaries & Wages,NONE
+BU2,61000,6100,Rent & Utilities,NONE
+BU2,69000,6900,AP Adjustments / Suspense,NONE

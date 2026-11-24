@@ -1,0 +1,38 @@
+bu,source_row,parent_code,component_code,defect_code,severity,owner,detail,recommended_action
+BU1,85,FAB-00443,FIT-00651,BOM_DUPLICATE_LINE,LOW,Engineering,same parent/component/sequence appears earlier,Delete the duplicate
+BU1,246,FAB-00881,ZZ-76181,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component 'ZZ-76181' not in BU1 item master,Correct the component code or create the item
+BU1,517,FAB-01654,VLV-00481,BOM_ITEM_QUARANTINED,MEDIUM,Engineering,component item VLV-00481 is quarantined,Resolve the item defect; line reloads automatically
+BU1,538,FAB-01730,VLV-00356,BOM_DUPLICATE_LINE,LOW,Engineering,same parent/component/sequence appears earlier,Delete the duplicate
+BU1,585,FAB-01827,VLV-00290,BOM_ITEM_QUARANTINED,MEDIUM,Engineering,component item VLV-00290 is quarantined,Resolve the item defect; line reloads automatically
+BU1,596,FAB-01842,VLV-00557,BOM_DUPLICATE_LINE,LOW,Engineering,same parent/component/sequence appears earlier,Delete the duplicate
+BU1,637,FAB-01920,FIT-00850,BOM_INVALID_QTY,MEDIUM,Engineering,qty per = '0',Supply the correct quantity
+BU1,642,FAB-01950,ZZ-83481,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component 'ZZ-83481' not in BU1 item master,Correct the component code or create the item
+BU1,714,FAB-02147,BLT-00073,BOM_INVALID_QTY,MEDIUM,Engineering,qty per = '-1',Supply the correct quantity
+BU1,742,FAB-02160,FLG-00689,BOM_INVALID_QTY,MEDIUM,Engineering,qty per = '-2.5',Supply the correct quantity
+BU1,814,FAB-02312,FAB-00375,BOM_INVALID_QTY,MEDIUM,Engineering,qty per = '-2.5',Supply the correct quantity
+BU1,1047,FAB-03046,ZZ-57106,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component 'ZZ-57106' not in BU1 item master,Correct the component code or create the item
+BU1,1057,FAB-03060,ZZ-10180,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component 'ZZ-10180' not in BU1 item master,Correct the component code or create the item
+BU1,1271,FAB-03603,ZZ-60840,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component 'ZZ-60840' not in BU1 item master,Correct the component code or create the item
+BU1,1291,FAB-03734,ZZ-35710,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component 'ZZ-35710' not in BU1 item master,Correct the component code or create the item
+BU1,1407,FAB-04024,ZZ-94623,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component 'ZZ-94623' not in BU1 item master,Correct the component code or create the item
+BU1,1408,ZZ-21964,FLG-00545,BOM_ORPHAN_PARENT,HIGH,Engineering,parent 'ZZ-21964' not in BU1 item master,Create the item or delete the structure
+BU1,1412,ZZ-87733,PLT-00219,BOM_ORPHAN_PARENT,HIGH,Engineering,parent 'ZZ-87733' not in BU1 item master,Create the item or delete the structure
+BU2,2,9154845,0005953,BOM_ORPHAN_PARENT,HIGH,Engineering,parent '9154845' not in BU2 item master,Create the item or delete the structure
+BU2,163,F0002952,9433477,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9433477' not in BU2 item master,Correct the component code or create the item
+BU2,184,F0003147,9411294,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9411294' not in BU2 item master,Correct the component code or create the item
+BU2,207,F0003446,9190371,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9190371' not in BU2 item master,Correct the component code or create the item
+BU2,216,F0003474,0012573,BOM_ITEM_QUARANTINED,MEDIUM,Engineering,component item 0012573 is quarantined,Resolve the item defect; line reloads automatically
+BU2,217,F0003474,9950020,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9950020' not in BU2 item master,Correct the component code or create the item
+BU2,224,F0003491,9061180,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9061180' not in BU2 item master,Correct the component code or create the item
+BU2,304,F0004330,9917345,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9917345' not in BU2 item master,Correct the component code or create the item
+BU2,633,F0007727,0012459,BOM_DUPLICATE_LINE,LOW,Engineering,same parent/component/sequence appears earlier,Delete the duplicate
+BU2,657,F0007958,9357192,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9357192' not in BU2 item master,Correct the component code or create the item
+BU2,812,F0009146,9633476,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9633476' not in BU2 item master,Correct the component code or create the item
+BU2,986,F0010375,9428221,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9428221' not in BU2 item master,Correct the component code or create the item
+BU2,1018,F0010977,0007948,BOM_ITEM_QUARANTINED,MEDIUM,Engineering,component item 0007948 is quarantined,Resolve the item defect; line reloads automatically
+BU2,1061,F0011195,9774399,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9774399' not in BU2 item master,Correct the component code or create the item
+BU2,1091,F0011540,0012573,BOM_ITEM_QUARANTINED,MEDIUM,Engineering,component item 0012573 is quarantined,Resolve the item defect; line reloads automatically
+BU2,1121,F0011853,F0011853,BOM_SELF_REFERENCE,HIGH,Engineering,F0011853 lists itself,Remove the line
+BU2,1191,F0012318,F0009054,BOM_DUPLICATE_LINE,LOW,Engineering,same parent/component/sequence appears earlier,Delete the duplicate
+BU2,1207,F0012488,0008307,BOM_ITEM_QUARANTINED,MEDIUM,Engineering,component item 0008307 is quarantined,Resolve the item defect; line reloads automatically
+BU2,1340,F0013419,9832631,BOM_ORPHAN_COMPONENT,HIGH,Engineering,component '9832631' not in BU2 item master,Correct the component code or create the item
