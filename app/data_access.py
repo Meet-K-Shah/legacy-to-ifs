@@ -21,7 +21,7 @@ DOMAIN_TABLES = {"Item": ("silver_item_golden", "silver_item_xref", "part_no", "
 
 
 def open_db(paths: Paths | None = None):
-    return connect(paths or Paths())
+    return connect(paths or Paths(), read_only=True)
 
 
 def read_csv(path: Path) -> list[dict]:
