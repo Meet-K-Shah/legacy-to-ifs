@@ -101,7 +101,7 @@ class DuckDb(Db):
     def __init__(self, path: str | Path):
         import duckdb
 
-        self.con = duckdb.connect(str(path))
+        self.con = duckdb.connect(str(path), read_only=read_only)
 
     def execute(self, sql, params=()):
         return self.con.execute(sql, list(params))
@@ -147,7 +147,7 @@ class DuckDb(Db):
         self.con.close()
 
 
-def connect(paths: Paths | None = None, backend: str | None = None, fresh: bool = False, path: str | Path | None = None) -> Db:
+def connect(paths: Paths | None = None, backend: str | None = None, fresh: bool = False, path: str | Path | None = None, read_only: bool = False) -> Db:
     """Open the project warehouse. backend: 'duckdb' | 'sqlite' | None (auto, or $IFS_MIG_BACKEND)."""
     paths = paths or Paths()
     backend = (backend or os.environ.get("IFS_MIG_BACKEND") or "auto").lower()
